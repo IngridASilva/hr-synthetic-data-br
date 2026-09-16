@@ -1,0 +1,201 @@
+﻿matricula,data_evento,tipo_desligamento,motivo_desligamento,id_area,criticidade_area,grade,salario,meses_de_casa,aviso_previo,ferias_proporcionais,decimo_terceiro_prop,multa_fgts,custo_rescisao,multiplo_reposicao,custo_reposicao,custo_total_desligamento
+100024,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,2,Média,3,4521.8,34.07,4521.8,5057.89,376.82,0.0,13520.94,4.0,18087.2,31608.14
+100031,2021-01-01,Involuntário,Dispensa sem justa causa - fim de projeto,5,Baixa,2,3399.03,24.01,3399.03,5.46,283.25,2612.03,7619.98,2.5,8497.58,16117.56
+100043,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,11,Alta,2,5167.88,11.01,5167.88,6319.32,430.66,0.0,16184.44,6.0,31007.28,47191.72
+100048,2021-01-01,Voluntário,Pedido de demissão - proposta externa,7,Alta,6,18130.84,24.01,18130.84,29.12,1510.9,0.0,26713.03,6.0,108785.04,135498.07
+100053,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,8,Alta,3,9128.56,17.05,9128.56,5122.07,760.71,0.0,20385.4,6.0,54771.36,75156.76
+100112,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,13,Média,6,13521.22,2.0,13521.22,3010.64,1126.77,0.0,23980.41,4.0,54084.88,78065.29
+100113,2021-01-01,Involuntário,Dispensa sem justa causa - reestruturação,12,Média,5,14026.04,4.01,14026.04,6246.08,1168.84,1798.87,30915.7,4.0,56104.16,87019.86
+100148,2021-01-01,Voluntário,Pedido de demissão - remuneração,7,Alta,1,3473.18,7.03,3473.18,2713.03,289.43,0.0,8793.92,6.0,20839.08,29633.0
+100188,2021-01-01,Voluntário,Pedido de demissão - proposta externa,2,Média,2,3900.88,4.01,3900.88,1737.14,325.07,0.0,8097.88,4.0,15603.52,23701.4
+100209,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,7,Alta,5,18163.88,15.05,18163.88,6147.45,1513.66,0.0,35070.33,6.0,108983.28,144053.61
+100305,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,1,Alta,2,4850.34,24.01,4850.34,7.79,404.2,0.0,7146.24,6.0,29102.04,36248.28
+100347,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,1,Alta,3,6692.92,36.01,6692.92,3.91,557.74,0.0,9851.71,6.0,40157.52,50009.23
+100417,2021-01-01,Involuntário,Dispensa sem justa causa - fim de projeto,2,Média,4,12275.49,79.04,12275.49,9603.16,1022.96,31048.44,62148.83,4.0,49101.96,111250.79
+100443,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,3,Média,1,2455.49,10.05,2455.49,2742.66,204.62,0.0,7336.97,4.0,9821.96,17158.93
+100496,2021-01-01,Involuntário,Dispensa sem justa causa - reestruturação,13,Média,6,11665.82,90.05,11665.82,7836.83,972.15,33614.73,61419.51,4.0,46663.28,108082.79
+100589,2021-01-01,Voluntário,Pedido de demissão - remuneração,2,Média,1,2970.89,5.03,2970.89,1659.17,247.57,0.0,6623.83,4.0,11883.56,18507.39
+100623,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,5,Baixa,2,2675.28,3.02,2675.28,898.4,222.94,0.0,5155.81,2.5,6688.2,11844.01
+100652,2021-01-01,Voluntário,Pedido de demissão - remuneração,3,Média,2,3199.64,11.01,3199.64,3912.54,266.64,0.0,10020.43,4.0,12798.56,22818.99
+100657,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,3,Média,1,2296.28,40.01,2296.28,1023.92,191.36,0.0,4768.7,4.0,9185.12,13953.82
+100659,2021-01-01,Involuntário,Dispensa sem justa causa - fim de projeto,6,Média,2,3828.83,21.06,3828.83,3853.43,319.07,2580.06,13445.86,4.0,15315.32,28761.18
+100670,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,2,Média,2,2800.23,36.01,2800.23,1.64,233.35,0.0,4121.83,4.0,11200.92,15322.75
+100788,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,6,Média,4,7799.66,7.03,7799.66,6092.59,649.97,0.0,19748.34,4.0,31198.64,50946.98
+100860,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,4,Média,7,17114.3,72.01,17114.3,19.99,1426.19,0.0,25205.13,4.0,68457.2,93662.33
+100873,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,1,Alta,5,14095.21,28.02,14095.21,6299.52,1174.6,0.0,29291.16,6.0,84571.26,113862.42
+100894,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,9,Alta,2,5670.23,20.07,5670.23,5085.74,472.52,0.0,15248.29,6.0,34021.38,49269.67
+100946,2021-01-01,Voluntário,Pedido de demissão - proposta externa,5,Baixa,3,5793.02,26.02,5793.02,1299.18,482.75,0.0,10286.78,2.5,14482.55,24769.33
+100963,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,10,Alta,7,21804.11,37.02,21804.11,2479.98,1817.01,0.0,35445.3,6.0,130824.66,166269.96
+101022,2021-01-01,Voluntário,Pedido de demissão - proposta externa,8,Alta,3,10225.22,17.05,10225.22,5737.41,852.1,0.0,22834.41,6.0,61351.32,84185.73
+101068,2021-01-01,Voluntário,Pedido de demissão - remuneração,13,Média,5,11724.47,29.04,11724.47,6566.66,977.04,0.0,26166.18,4.0,46897.88,73064.06
+101095,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,3,Média,3,4522.46,14.03,4522.46,1018.86,376.87,0.0,8036.9,4.0,18089.84,26126.74
+101167,2021-01-01,Voluntário,Pedido de demissão - proposta externa,6,Média,2,3649.8,18.07,3649.8,2460.91,304.15,0.0,8711.38,4.0,14599.2,23310.58
+101262,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,6,Média,1,2426.07,10.05,2426.07,2709.8,202.17,0.0,7249.06,4.0,9704.28,16953.34
+101265,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,1,Alta,4,9196.33,8.05,9196.33,8224.2,766.36,0.0,24697.79,6.0,55177.98,79875.77
+101266,2021-01-01,Involuntário,Dispensa por justa causa,8,Alta,3,10438.61,69.05,10438.61,10501.1,869.88,23066.45,52683.87,6.0,62631.66,115315.53
+101360,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,2,Média,4,9626.81,17.05,9626.81,5401.64,802.23,0.0,21498.07,4.0,38507.24,60005.31
+100025,2021-02-01,Voluntário,Pedido de demissão - motivos pessoais,2,Média,1,3174.26,9.07,3174.26,3197.9,529.04,0.0,9371.83,4.0,12697.04,22068.87
+100068,2021-02-01,Voluntário,Pedido de demissão - insatisfação com liderança,8,Alta,1,4190.91,7.06,4190.91,3288.97,698.48,0.0,11106.22,6.0,25145.46,36251.68
+100290,2021-02-01,Voluntário,Pedido de demissão - insatisfação com liderança,10,Alta,2,4098.75,6.04,4098.75,2752.85,683.12,0.0,10232.15,6.0,24592.5,34824.65
+100329,2021-02-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,9,Alta,4,12648.53,15.05,12648.53,4280.81,2108.09,0.0,25852.83,6.0,75891.18,101744.01
+100377,2021-02-01,Involuntário,Dispensa por justa causa,2,Média,7,23439.77,104.04,23439.77,20941.44,3906.63,78038.11,143613.0,4.0,93759.08,237372.08
+100480,2021-02-01,Voluntário,Pedido de demissão - proposta externa,4,Média,6,12631.82,142.05,12631.82,14105.44,2105.3,0.0,39168.2,4.0,50527.28,89695.48
+100499,2021-02-01,Voluntário,Pedido de demissão - insatisfação com liderança,6,Média,5,9449.77,51.02,9449.77,3169.24,1574.96,0.0,19275.41,4.0,37799.08,57074.49
+100571,2021-02-01,Involuntário,Dispensa por justa causa,11,Alta,4,9720.66,14.06,9720.66,2225.43,1620.11,4373.66,22796.56,6.0,58323.96,81120.52
+100610,2021-02-01,Voluntário,Pedido de demissão - proposta externa,6,Média,3,4504.81,30.06,4504.81,3032.8,750.8,0.0,11255.67,4.0,18019.24,29274.91
+100645,2021-02-01,Voluntário,Pedido de demissão - motivos pessoais,2,Média,3,6433.19,24.01,6433.19,10.33,1072.2,0.0,10206.35,4.0,25732.76,35939.11
+100710,2021-02-01,Involuntário,Dispensa sem justa causa - fim de projeto,4,Média,1,2593.22,2.04,2593.22,586.87,432.2,169.02,5074.52,4.0,10372.88,15447.4
+100747,2021-02-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,2,Média,2,4403.39,14.06,4403.39,1008.11,733.9,0.0,8345.45,4.0,17613.56,25959.01
+100828,2021-02-01,Involuntário,Dispensa por justa causa,1,Alta,2,4150.91,32.06,4150.91,3718.79,691.82,4258.91,15885.45,6.0,24905.46,40790.91
+100886,2021-02-01,Voluntário,Pedido de demissão - remuneração,6,Média,2,3596.34,20.07,3596.34,3225.63,599.39,0.0,10078.2,4.0,14385.36,24463.56
+101064,2021-02-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,5,Baixa,3,5528.52,17.05,5528.52,3102.07,921.42,0.0,12971.63,2.5,13821.3,26792.93
+101099,2021-02-01,Involuntário,Dispensa sem justa causa - desempenho,2,Média,3,6465.66,20.07,6465.66,5799.17,1077.61,4152.98,22272.02,4.0,25862.64,48134.66
+101218,2021-02-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,9,Alta,2,6667.57,24.01,6667.57,10.71,1111.26,0.0,10578.2,6.0,40005.42,50583.62
+101260,2021-02-01,Voluntário,Pedido de demissão - remuneração,8,Alta,1,3982.21,25.03,3982.21,457.0,663.7,0.0,6929.76,6.0,23893.26,30823.02
+101295,2021-02-01,Voluntário,Pedido de demissão - insatisfação com liderança,6,Média,2,2628.8,25.03,2628.8,301.68,438.13,0.0,4574.58,4.0,10515.2,15089.78
+101335,2021-02-01,Voluntário,Pedido de demissão - remuneração,5,Baixa,2,3376.0,19.09,3376.0,2658.31,562.67,0.0,8958.69,2.5,8440.0,17398.69
+100026,2021-03-01,Involuntário,Dispensa sem justa causa - reestruturação,5,Baixa,3,5172.42,12.94,5172.42,542.24,1293.1,2142.37,11658.92,2.5,12931.05,24589.97
+100072,2021-03-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,9,Alta,2,5587.54,14.98,5587.54,1850.28,1396.88,0.0,11997.52,6.0,33525.24,45522.76
+100074,2021-03-01,Involuntário,Dispensa sem justa causa - desempenho,2,Média,3,6824.02,56.96,6824.02,6797.12,1706.0,12439.26,33253.53,4.0,27296.08,60549.61
+100103,2021-03-01,Involuntário,Dispensa sem justa causa - reestruturação,4,Média,2,3807.57,17.97,3807.57,2525.59,951.89,2189.48,12082.58,4.0,15230.28,27312.86
+100162,2021-03-01,Voluntário,Pedido de demissão - insatisfação com liderança,9,Alta,3,8806.16,14.98,8806.16,2916.1,2201.54,0.0,18908.52,6.0,52836.96,71745.48
+100166,2021-03-01,Voluntário,Pedido de demissão - remuneração,13,Média,3,5604.86,52.96,5604.86,3086.81,1401.22,0.0,13706.13,4.0,22419.44,36125.57
+100320,2021-03-01,Voluntário,Pedido de demissão - motivos pessoais,6,Média,4,6211.09,27.96,6211.09,2730.56,1552.77,0.0,14251.42,4.0,24844.36,39095.78
+100438,2021-03-01,Voluntário,Pedido de demissão - insatisfação com liderança,1,Alta,6,22696.64,150.95,22696.64,17533.64,5674.16,0.0,62338.23,6.0,136179.84,198518.07
+100474,2021-03-01,Involuntário,Dispensa sem justa causa - desempenho,3,Média,6,11918.13,82.0,11918.13,13238.89,2979.53,31272.17,69481.6,4.0,47672.52,117154.12
+100547,2021-03-01,Voluntário,Pedido de demissão - remuneração,9,Alta,3,7829.96,63.96,7829.96,3446.83,1957.49,0.0,17972.15,6.0,46979.76,64951.91
+100595,2021-03-01,Voluntário,Pedido de demissão - remuneração,5,Baixa,2,3974.85,25.95,3974.85,862.41,993.71,0.0,7918.46,2.5,9937.12,17855.58
+100634,2021-03-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,6,Média,2,3786.8,11.99,3786.8,5045.2,946.7,0.0,13279.47,4.0,15147.2,28426.67
+100735,2021-03-01,Voluntário,Pedido de demissão - proposta externa,5,Baixa,2,4046.59,15.97,4046.59,1783.12,1011.65,0.0,9290.57,2.5,10116.48,19407.04
+100800,2021-03-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,4,Média,4,6727.99,44.97,6727.99,6708.34,1682.0,0.0,20530.69,4.0,26911.96,47442.65
+100822,2021-03-01,Involuntário,Dispensa sem justa causa - desempenho,3,Média,1,1925.67,7.98,1925.67,1708.05,481.42,491.92,6080.28,4.0,7702.68,13782.96
+100825,2021-03-01,Involuntário,Dispensa sem justa causa - fim de projeto,7,Alta,2,6636.66,50.95,6636.66,2177.34,1659.16,10820.98,25043.54,6.0,39819.96,64863.5
+100874,2021-03-01,Voluntário,Pedido de demissão - proposta externa,1,Alta,1,2849.28,36.01,2849.28,1.66,712.32,0.0,4838.91,6.0,17095.68,21934.59
+101041,2021-03-01,Involuntário,Dispensa por justa causa,1,Alta,2,4483.81,10.97,4483.81,5466.46,1120.95,1574.34,16609.07,6.0,26902.86,43511.93
+101108,2021-03-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,4,Média,4,6186.37,44.97,6186.37,6168.3,1546.59,0.0,18877.92,4.0,24745.48,43623.4
+101287,2021-03-01,Involuntário,Dispensa sem justa causa - reestruturação,5,Baixa,5,9601.6,22.01,9601.6,10679.66,2400.4,6762.76,37564.45,2.5,24004.0,61568.45
+101305,2021-03-01,Involuntário,Dispensa sem justa causa - desempenho,1,Alta,3,8623.12,59.99,8623.12,11484.9,2155.78,16552.76,46787.01,6.0,51738.72,98525.73
+101408,2021-03-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,10,Alta,2,3757.9,1.94,3757.9,809.3,939.48,0.0,7478.07,6.0,22547.4,30025.47
+100094,2021-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,7,Alta,7,40078.57,20.01,40078.57,35654.65,13359.52,0.0,120987.95,6.0,240471.42,361459.37
+100096,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,1,Alta,4,10135.03,25.95,10135.03,2198.96,3378.34,0.0,21337.34,6.0,60810.18,82147.52
+100137,2021-04-01,Voluntário,Pedido de demissão - remuneração,3,Média,6,15906.32,32.0,15906.32,14134.31,5302.11,0.0,47995.43,4.0,63625.28,111620.71
+100346,2021-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,6,Média,3,7069.09,48.0,7069.09,9422.36,2356.36,0.0,25595.33,4.0,28276.36,53871.69
+100366,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,7,Alta,2,5850.86,16.98,5850.86,3240.23,1950.29,0.0,14994.18,6.0,35105.16,50099.34
+100403,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,1,Alta,1,2916.84,3.98,2916.84,1288.28,972.28,0.0,7030.91,6.0,17501.04,24531.95
+100481,2021-04-01,Voluntário,Pedido de demissão - proposta externa,3,Média,2,3321.53,51.97,3321.53,1465.57,1107.18,0.0,8004.42,4.0,13286.12,21290.54
+100640,2021-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,1,Alta,4,8322.78,34.0,8322.78,9248.75,2774.26,0.0,27629.58,6.0,49936.68,77566.26
+100734,2021-04-01,Involuntário,Dispensa sem justa causa - fim de projeto,7,Alta,2,6370.7,7.98,6370.7,5650.75,2123.57,1627.42,20836.35,6.0,38224.2,59060.55
+100752,2021-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,8,Alta,3,8881.89,2.96,8881.89,2917.84,2960.63,0.0,20044.56,6.0,53291.34,73335.9
+100779,2021-04-01,Involuntário,Dispensa sem justa causa - reestruturação,13,Média,7,20904.1,166.0,20904.1,23223.73,6968.03,111041.7,180429.88,4.0,83616.4,264046.28
+100812,2021-04-01,Voluntário,Pedido de demissão - proposta externa,1,Alta,3,5366.36,27.99,5366.36,2378.78,1788.79,0.0,12947.07,6.0,32198.16,45145.23
+100820,2021-04-01,Voluntário,Pedido de demissão - proposta externa,3,Média,2,2423.43,30.98,2423.43,1879.23,807.81,0.0,6940.02,4.0,9693.72,16633.74
+100869,2021-04-01,Voluntário,Pedido de demissão - insatisfação com liderança,5,Baixa,3,5772.81,36.01,5772.81,3.37,1924.27,0.0,10457.21,2.5,14432.03,24889.24
+100935,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,2,Média,4,8632.53,35.02,8632.53,10569.78,2877.51,0.0,29984.39,4.0,34530.12,64514.51
+100958,2021-04-01,Voluntário,Pedido de demissão - proposta externa,4,Média,2,3626.08,11.01,3626.08,4433.99,1208.69,0.0,12586.99,4.0,14504.32,27091.31
+101004,2021-04-01,Involuntário,Dispensa sem justa causa - desempenho,2,Média,6,21480.57,26.97,21480.57,7091.19,7160.19,18539.34,67063.33,4.0,85922.28,152985.61
+101028,2021-04-01,Voluntário,Pedido de demissão - remuneração,2,Média,1,3019.46,16.0,3019.46,1341.54,1006.49,0.0,7289.05,4.0,12077.84,19366.89
+101050,2021-04-01,Voluntário,Pedido de demissão - insatisfação com liderança,3,Média,2,3575.64,7.98,3575.64,3171.56,1191.88,0.0,10781.27,4.0,14302.56,25083.83
+101074,2021-04-01,Involuntário,Dispensa sem justa causa - fim de projeto,1,Alta,2,3908.63,5.98,3908.63,2596.62,1302.88,747.83,11351.27,6.0,23451.78,34803.05
+101251,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,3,Média,3,3876.28,79.99,3876.28,3442.75,1292.09,0.0,11693.91,4.0,15505.12,27199.03
+101317,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,4,Média,3,5182.76,50.95,5182.76,1700.34,1727.59,0.0,11693.32,4.0,20731.04,32424.36
+101340,2021-04-01,Involuntário,Dispensa sem justa causa - reestruturação,1,Alta,2,3756.48,41.98,3756.48,2497.74,1252.16,5046.81,15240.48,6.0,22538.88,37779.36
+101444,2021-04-01,Voluntário,Pedido de demissão - remuneração,7,Alta,3,9336.77,1.94,9336.77,2010.77,3112.26,0.0,19636.4,6.0,56020.62,75657.02
+101465,2021-04-01,Voluntário,Pedido de demissão - remuneração,5,Baixa,2,3680.93,1.02,3680.93,416.52,1226.98,0.0,7230.57,2.5,9202.32,16432.89
+100047,2021-05-01,Involuntário,Dispensa sem justa causa - reestruturação,4,Média,1,2711.74,15.97,2711.74,1194.92,1129.89,1385.45,8225.09,4.0,10846.96,19072.05
+100062,2021-05-01,Involuntário,Dispensa sem justa causa - fim de projeto,14,Alta,2,4426.6,34.0,4426.6,4919.09,1844.42,4816.33,20012.49,6.0,26559.6,46572.09
+100085,2021-05-01,Involuntário,Dispensa sem justa causa - desempenho,6,Média,2,3374.82,9.99,3374.82,3744.87,1406.18,1078.52,12656.65,4.0,13499.28,26155.93
+100136,2021-05-01,Voluntário,Pedido de demissão - proposta externa,6,Média,2,3520.73,6.96,3520.73,2724.47,1466.97,0.0,10473.12,4.0,14082.92,24556.04
+100186,2021-05-01,Involuntário,Dispensa sem justa causa - reestruturação,11,Alta,4,13571.66,70.01,13571.66,15089.53,5654.86,30403.37,77004.57,6.0,81429.96,158434.53
+100249,2021-05-01,Involuntário,Dispensa sem justa causa - reestruturação,6,Média,5,13550.07,22.01,13550.07,15071.46,5645.86,9543.81,56078.93,4.0,54200.28,110279.21
+100449,2021-05-01,Involuntário,Dispensa por justa causa,1,Alta,2,4260.59,19.97,4260.59,3774.75,1775.25,2723.19,16045.97,6.0,25563.54,41609.51
+100500,2021-05-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,7,Alta,2,4683.85,36.01,4683.85,2.74,1951.6,0.0,9014.66,6.0,28103.1,37117.76
+100506,2021-05-01,Voluntário,Pedido de demissão - proposta externa,6,Média,2,3631.49,14.95,3631.49,1189.29,1513.12,0.0,8601.43,4.0,14525.96,23127.39
+100707,2021-05-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,13,Média,4,10045.54,5.95,10045.54,6636.89,4185.64,0.0,28338.84,4.0,40182.16,68521.0
+100713,2021-05-01,Involuntário,Dispensa por justa causa,4,Média,2,3587.17,32.98,3587.17,3580.36,1494.65,3786.09,15549.34,4.0,14348.68,29898.02
+100714,2021-05-01,Involuntário,Dispensa sem justa causa - desempenho,2,Média,2,3670.72,65.97,3670.72,2433.21,1529.47,7748.55,18114.7,4.0,14682.88,32797.58
+100916,2021-05-01,Involuntário,Dispensa por justa causa,8,Alta,1,3988.67,48.0,3988.67,5316.48,1661.95,6126.09,21019.41,6.0,23932.02,44951.43
+100995,2021-05-01,Involuntário,Dispensa por justa causa,3,Média,2,3761.18,31.96,3761.18,3328.44,1567.16,3847.18,15603.09,4.0,15044.72,30647.81
+101042,2021-05-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,1,Alta,2,5505.34,34.99,5505.34,6720.71,2293.89,0.0,19718.08,6.0,33032.04,52750.12
+101292,2021-05-01,Voluntário,Pedido de demissão - insatisfação com liderança,11,Alta,1,2842.99,23.0,2842.99,3473.52,1184.58,0.0,10186.48,6.0,17057.94,27244.42
+101312,2021-05-01,Voluntário,Pedido de demissão - proposta externa,5,Baixa,4,9683.75,36.01,9683.75,5.66,4034.9,0.0,18637.6,2.5,24209.38,42846.98
+101323,2021-05-01,Voluntário,Pedido de demissão - proposta externa,9,Alta,4,14121.01,3.94,14121.01,6185.29,5883.75,0.0,35566.09,6.0,84726.06,120292.15
+100090,2021-06-01,Voluntário,Pedido de demissão - proposta externa,3,Média,1,2529.45,18.99,2529.45,1964.03,1264.72,0.0,7819.64,4.0,10117.8,17937.44
+100259,2021-06-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,3,Média,3,4098.6,28.98,4098.6,2265.63,2049.3,0.0,11425.57,4.0,16394.4,27819.97
+100275,2021-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,3,Média,1,2076.99,26.02,2076.99,465.8,1038.49,0.0,4863.38,4.0,8307.96,13171.34
+100337,2021-06-01,Involuntário,Dispensa por justa causa,10,Alta,2,3876.74,16.98,3876.74,2146.95,1938.37,2106.99,12919.47,6.0,23260.44,36179.91
+100345,2021-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,11,Alta,2,5286.95,35.02,5286.95,6473.41,2643.48,0.0,19560.4,6.0,31721.7,51282.1
+100351,2021-06-01,Voluntário,Pedido de demissão - motivos pessoais,2,Média,3,7233.09,25.03,7233.09,830.08,3616.54,0.0,15861.05,4.0,28932.36,44793.41
+100369,2021-06-01,Voluntário,Pedido de demissão - remuneração,3,Média,2,3515.32,27.96,3515.32,1545.43,1757.66,0.0,9259.4,4.0,14061.28,23320.68
+100513,2021-06-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,2,Média,2,3760.14,11.01,3760.14,4597.92,1880.07,0.0,13903.38,4.0,15040.56,28943.94
+100591,2021-06-01,Involuntário,Dispensa sem justa causa - reestruturação,13,Média,2,3848.01,27.04,3848.01,1298.4,1924.0,3329.21,12930.84,4.0,15392.04,28322.88
+100636,2021-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,6,Média,3,5539.73,9.99,5539.73,6147.17,2769.86,0.0,19632.28,4.0,22158.92,41791.2
+100708,2021-06-01,Voluntário,Pedido de demissão - proposta externa,12,Média,4,10351.1,28.98,10351.1,5721.9,5175.55,0.0,28855.53,4.0,41404.4,70259.93
+100819,2021-06-01,Voluntário,Pedido de demissão - remuneração,2,Média,3,5794.67,38.01,5794.67,1293.63,2897.34,0.0,13560.49,4.0,23178.68,36739.17
+100845,2021-06-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,2,Média,3,5431.75,53.98,5431.75,3606.1,2715.88,0.0,15961.56,4.0,21727.0,37688.56
+100880,2021-06-01,Involuntário,Dispensa sem justa causa - desempenho,3,Média,4,11077.11,87.02,11077.11,3721.48,5538.56,30847.06,58464.9,4.0,44308.44,102773.34
+100921,2021-06-01,Voluntário,Pedido de demissão - motivos pessoais,4,Média,1,2788.27,20.99,2788.27,2785.83,1394.14,0.0,9462.86,4.0,11153.08,20615.94
+100934,2021-06-01,Voluntário,Pedido de demissão - proposta externa,4,Média,4,4506.19,82.0,4506.19,5005.56,2253.09,0.0,15976.66,4.0,18024.76,34001.42
+100970,2021-06-01,Voluntário,Pedido de demissão - motivos pessoais,5,Baixa,2,3789.85,32.0,3789.85,3367.65,1894.92,0.0,12293.19,2.5,9474.62,21767.82
+101113,2021-06-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,12,Média,1,3973.77,64.98,3973.77,2198.95,1986.88,0.0,11080.74,4.0,15895.08,26975.82
+101115,2021-06-01,Involuntário,Dispensa por justa causa,5,Baixa,6,15703.49,7.98,15703.49,13928.85,7851.74,4011.51,54914.9,2.5,39258.72,94173.62
+101125,2021-06-01,Involuntário,Dispensa por justa causa,7,Alta,4,9266.33,88.96,9266.33,5108.73,4633.16,26379.21,52192.37,6.0,55597.98,107790.35
+101151,2021-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,9,Alta,2,6625.23,16.98,6625.23,3669.08,3312.62,0.0,18478.2,6.0,39751.38,58229.58
+101206,2021-06-01,Involuntário,Dispensa sem justa causa - reestruturação,5,Baixa,1,2876.78,20.01,2876.78,2559.24,1438.39,1841.74,11177.19,2.5,7191.95,18369.14
+101264,2021-06-01,Involuntário,Dispensa sem justa causa - fim de projeto,10,Alta,4,9182.81,127.99,9182.81,8151.77,4591.4,37609.7,67385.19,6.0,55096.86,122482.05
+101273,2021-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,14,Alta,2,6799.77,79.99,6799.77,6039.28,3399.88,0.0,22052.47,6.0,40798.62,62851.09
+101453,2021-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,3,Média,3,4523.35,3.02,4523.35,1519.01,2261.68,0.0,11276.88,4.0,18093.4,29370.28
+100019,2021-07-01,Voluntário,Pedido de demissão - motivos pessoais,3,Média,5,11143.61,17.97,11143.61,7391.65,6500.44,0.0,33998.48,4.0,44574.44,78572.92
+100099,2021-07-01,Involuntário,Dispensa sem justa causa - desempenho,1,Alta,6,15583.67,16.0,15583.67,6923.8,9090.47,7978.18,50888.19,6.0,93502.02,144390.21
+100146,2021-07-01,Voluntário,Pedido de demissão - remuneração,8,Alta,6,22077.43,16.0,22077.43,9808.97,12878.5,0.0,60790.73,6.0,132464.58,193255.31
+100333,2021-07-01,Involuntário,Dispensa por justa causa,1,Alta,1,2859.99,17.97,2859.99,1897.06,1668.33,1644.59,10370.25,6.0,17159.94,27530.19
+100335,2021-07-01,Voluntário,Pedido de demissão - remuneração,4,Média,1,2196.52,9.95,2196.52,2429.35,1281.3,0.0,8021.95,4.0,8786.08,16808.03
+100408,2021-07-01,Voluntário,Pedido de demissão - insatisfação com liderança,5,Baixa,1,2665.21,17.97,2665.21,1767.86,1554.71,0.0,8131.39,2.5,6663.02,14794.42
+100414,2021-07-01,Voluntário,Pedido de demissão - remuneração,1,Alta,1,2669.04,21.98,2669.04,2958.98,1556.94,0.0,9757.17,6.0,16014.24,25771.41
+100419,2021-07-01,Voluntário,Pedido de demissão - remuneração,8,Alta,3,8438.83,21.98,8438.83,9355.53,4922.65,0.0,30849.7,6.0,50632.98,81482.68
+100493,2021-07-01,Involuntário,Dispensa sem justa causa - reestruturação,9,Alta,2,6240.03,11.99,6240.03,8313.66,3640.02,2394.33,27101.39,6.0,37440.18,64541.57
+100502,2021-07-01,Voluntário,Pedido de demissão - motivos pessoais,1,Alta,2,5297.57,16.95,5297.57,2914.48,3090.25,0.0,15348.52,6.0,31785.42,47133.94
+100555,2021-07-01,Voluntário,Pedido de demissão - motivos pessoais,5,Baixa,2,3446.61,10.97,3446.61,4201.96,2010.52,0.0,13117.04,2.5,8616.52,21733.57
+100567,2021-07-01,Involuntário,Dispensa sem justa causa - desempenho,13,Média,7,15763.43,210.97,15763.43,12212.11,9195.33,106420.76,156898.81,4.0,63053.72,219952.53
+100688,2021-07-01,Voluntário,Pedido de demissão - motivos pessoais,15,Média,1,2461.68,6.96,2461.68,1904.94,1435.98,0.0,7879.92,4.0,9846.72,17726.64
+100931,2021-07-01,Voluntário,Pedido de demissão - proposta externa,1,Alta,3,6233.37,36.99,6233.37,686.23,3636.13,0.0,14334.68,6.0,37400.22,51734.9
+101013,2021-07-01,Voluntário,Pedido de demissão - proposta externa,6,Média,5,11324.72,65.97,11324.72,7506.82,6606.09,0.0,34544.3,4.0,45298.88,79843.18
+101069,2021-07-01,Voluntário,Pedido de demissão - remuneração,8,Alta,2,5039.97,10.97,5039.97,6144.51,2939.98,0.0,19181.02,6.0,30239.82,49420.84
+101129,2021-07-01,Involuntário,Dispensa por justa causa,2,Média,3,5668.46,103.94,5668.46,5002.22,3306.6,18854.15,37835.29,4.0,22673.84,60509.13
+101152,2021-07-01,Involuntário,Dispensa sem justa causa - reestruturação,5,Baixa,2,2754.45,36.01,2754.45,1.61,1606.76,3173.59,9098.3,2.5,6886.12,15984.43
+101277,2021-07-01,Involuntário,Dispensa por justa causa,1,Alta,1,2957.67,36.01,2957.67,1.73,1725.31,3407.73,9769.56,6.0,17746.02,27515.58
+101314,2021-07-01,Voluntário,Pedido de demissão - proposta externa,4,Média,5,13413.95,28.02,13413.95,5995.05,7824.8,0.0,36983.51,4.0,53655.8,90639.31
+101344,2021-07-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,2,Média,2,3069.9,40.93,3069.9,1682.64,1790.78,0.0,8885.82,4.0,12279.6,21165.42
+101375,2021-07-01,Voluntário,Pedido de demissão - proposta externa,5,Baixa,3,4594.08,6.96,4594.08,3555.06,2679.88,0.0,14705.81,2.5,11485.2,26191.01
+101496,2021-07-01,Voluntário,Pedido de demissão - remuneração,5,Baixa,1,2416.36,2.99,2416.36,802.63,1409.54,0.0,6285.55,2.5,6040.9,12326.45
+101545,2021-07-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,5,Baixa,3,5758.54,0.99,5758.54,630.59,3359.15,0.0,13238.16,2.5,14396.35,27634.51
+100073,2021-08-01,Involuntário,Dispensa sem justa causa - desempenho,2,Média,4,9021.0,40.01,9021.0,4022.5,6014.0,11550.67,37430.76,4.0,36084.0,73514.76
+100195,2021-08-01,Involuntário,Dispensa sem justa causa - desempenho,5,Baixa,4,9172.4,11.99,9172.4,12220.49,6114.93,3519.5,40875.13,2.5,22931.0,63806.13
+100223,2021-08-01,Voluntário,Pedido de demissão - remuneração,2,Média,3,6062.67,27.04,6062.67,2045.68,4041.78,0.0,16499.87,4.0,24250.68,40750.55
+100282,2021-08-01,Voluntário,Pedido de demissão - remuneração,5,Baixa,1,2123.2,13.99,2123.2,470.58,1415.47,0.0,5444.56,2.5,5308.0,10752.56
+100336,2021-08-01,Voluntário,Pedido de demissão - insatisfação com liderança,7,Alta,2,6600.41,29.04,6600.41,3696.77,4400.27,0.0,19959.14,6.0,39602.46,59561.6
+100422,2021-08-01,Involuntário,Dispensa por justa causa,6,Média,3,6467.2,29.96,6467.2,4283.14,4311.47,6200.35,26654.29,4.0,25868.8,52523.09
+100434,2021-08-01,Voluntário,Pedido de demissão - proposta externa,5,Baixa,3,4429.39,11.99,4429.39,5901.33,2952.93,0.0,18039.19,2.5,11073.48,29112.66
+100470,2021-08-01,Voluntário,Pedido de demissão - proposta externa,4,Média,4,5571.45,74.01,5571.45,1247.05,3714.3,0.0,14303.54,4.0,22285.8,36589.34
+100716,2021-08-01,Voluntário,Pedido de demissão - proposta externa,6,Média,1,2195.47,17.02,2195.47,1223.87,1463.65,0.0,6631.1,4.0,8781.88,15412.98
+100826,2021-08-01,Involuntário,Dispensa sem justa causa - reestruturação,5,Baixa,4,5684.92,138.96,5684.92,4397.53,3789.95,25279.59,44118.31,2.5,14212.3,58330.61
+100914,2021-08-01,Involuntário,Dispensa sem justa causa - desempenho,13,Média,3,5583.71,53.94,5583.71,3686.6,3722.47,9638.32,27282.52,4.0,22334.84,49617.36
+101018,2021-08-01,Involuntário,Dispensa por justa causa,2,Média,4,12761.25,82.98,12761.25,15572.86,8507.5,33886.9,83917.81,4.0,51045.0,134962.81
+101097,2021-08-01,Voluntário,Pedido de demissão - insatisfação com liderança,2,Média,2,4811.51,43.99,4811.51,4270.58,3207.67,0.0,16689.49,4.0,19246.04,35935.53
+101100,2021-08-01,Voluntário,Pedido de demissão - proposta externa,8,Alta,3,9066.23,15.01,9066.23,3035.31,6044.15,0.0,24641.86,6.0,54397.38,79039.24
+101114,2021-08-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,4,Média,7,14577.15,151.97,14577.15,12910.64,9718.1,0.0,50525.6,4.0,58308.6,108834.2
+101132,2021-08-01,Voluntário,Pedido de demissão - motivos pessoais,4,Média,4,10680.56,53.94,10680.56,7051.76,7120.37,0.0,33749.96,4.0,42722.24,76472.2
+101160,2021-08-01,Voluntário,Pedido de demissão - remuneração,12,Média,4,11215.81,29.04,11215.81,6281.77,7477.21,0.0,33915.76,4.0,44863.24,78779.0
+101224,2021-08-01,Voluntário,Pedido de demissão - insatisfação com liderança,6,Média,2,4067.65,18.99,4067.65,3158.38,2711.77,0.0,13495.53,4.0,16270.6,29766.13
+101350,2021-08-01,Involuntário,Dispensa sem justa causa - desempenho,4,Média,3,6641.8,36.01,6641.8,3.88,4427.87,7652.47,22690.35,4.0,26567.2,49257.55
+101357,2021-08-01,Voluntário,Pedido de demissão - insatisfação com liderança,1,Alta,2,4379.22,20.01,4379.22,3895.84,2919.48,0.0,15202.18,6.0,26275.32,41477.5
+101464,2021-08-01,Voluntário,Pedido de demissão - remuneração,2,Média,4,9839.72,5.03,9839.72,5495.24,6559.81,0.0,29733.11,4.0,39358.88,69091.99
+101568,2021-08-01,Voluntário,Pedido de demissão - remuneração,2,Média,2,4136.07,1.02,4136.07,468.02,2757.38,0.0,9996.87,4.0,16544.28,26541.15
+100054,2021-09-01,Involuntário,Dispensa por justa causa,11,Alta,3,7479.02,126.97,7479.02,5792.99,5609.26,30387.82,56028.59,6.0,44874.12,100902.71
+100153,2021-09-01,Involuntário,Dispensa sem justa causa - reestruturação,5,Baixa,7,28291.1,104.99,28291.1,28270.45,21218.32,95052.15,200677.21,2.5,70727.75,271404.96
+100187,2021-09-01,Involuntário,Dispensa sem justa causa - fim de projeto,9,Alta,1,4405.51,24.01,4405.51,7.08,3304.13,3385.47,13864.77,6.0,26433.06,40297.83
+100276,2021-09-01,Voluntário,Pedido de demissão - insatisfação com liderança,4,Média,5,10297.46,30.06,10297.46,6932.63,7723.09,0.0,33886.43,4.0,41189.84,75076.27
+100352,2021-09-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,10,Alta,3,8346.56,9.0,8346.56,8347.78,6259.92,0.0,31171.88,6.0,50079.36,81251.24
+100381,2021-09-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,4,Média,1,2375.43,7.98,2375.43,2106.98,1781.57,0.0,8506.49,4.0,9501.72,18008.21
+100382,2021-09-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,1,Alta,3,7636.61,11.99,7636.61,10174.34,5727.46,0.0,31965.16,6.0,45819.66,77784.82
+100404,2021-09-01,Voluntário,Pedido de demissão - motivos pessoais,4,Média,4,8324.3,9.99,8324.3,9237.07,6243.22,0.0,32326.64,4.0,33297.2,65623.84
+100638,2021-09-01,Voluntário,Pedido de demissão - proposta externa,7,Alta,4,14587.73,37.02,14587.73,1659.2,10940.8,0.0,36920.93,6.0,87526.38,124447.31

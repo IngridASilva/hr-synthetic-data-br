@@ -1,0 +1,16 @@
+﻿id_area,diretoria,gerencia,familia_cargo,centro_custo,criticidade,sindicato,mes_data_base
+1,Comercial,Vendas Corporativas,Comercial,CC-1010,Alta,SINDCOM,9
+2,Comercial,Vendas Varejo,Comercial,CC-1020,Média,SINDCOM,9
+3,Comercial,Customer Success,Atendimento,CC-1030,Média,SINDCOM,9
+4,Operações,Logística,Operações,CC-2010,Média,SINDMETAL,5
+5,Operações,Produção,Operações,CC-2020,Baixa,SINDMETAL,5
+6,Operações,Qualidade,Operações,CC-2030,Média,SINDMETAL,5
+7,Tecnologia,Engenharia de Software,Tecnologia,CC-3010,Alta,SINDPD,1
+8,Tecnologia,Dados & BI,Tecnologia,CC-3020,Alta,SINDPD,1
+9,Tecnologia,Infraestrutura,Tecnologia,CC-3030,Alta,SINDPD,1
+10,Financeira,Controladoria,Financeiro,CC-4010,Alta,SINDCONT,1
+11,Financeira,FP&A,Financeiro,CC-4020,Alta,SINDCONT,1
+12,Financeira,Fiscal,Financeiro,CC-4030,Média,SINDCONT,1
+13,Pessoas & Adm,Recursos Humanos,Recursos Humanos,CC-5010,Média,SINDCOM,5
+14,Pessoas & Adm,Jurídico,Jurídico,CC-5020,Alta,SINDCOM,5
+15,Pessoas & Adm,Marketing,Marketing,CC-5030,Média,SINDCOM,5

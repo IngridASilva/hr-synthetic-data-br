@@ -1,0 +1,65 @@
+﻿id_cargo,familia_cargo,grade,nivel,cargo,faixa_minima,faixa_mediana,faixa_maxima,multiplicador_familia
+TEC-1,Tecnologia,1,Assistente,Assistente de Tecnologia,3024.0,3780.0,4536.0,1.35
+TEC-2,Tecnologia,2,Analista Júnior,Analista Júnior de Tecnologia,4536.0,5670.0,6804.0,1.35
+TEC-3,Tecnologia,3,Analista Pleno,Analista Pleno de Tecnologia,6844.5,8775.0,10705.5,1.35
+TEC-4,Tecnologia,4,Analista Sênior,Analista Sênior de Tecnologia,10003.5,12825.0,15646.5,1.35
+TEC-5,Tecnologia,5,Especialista,Especialista de Tecnologia,13668.75,18225.0,22781.25,1.35
+TEC-6,Tecnologia,6,Coordenador,Coordenador de Tecnologia,16200.0,21600.0,27000.0,1.35
+TEC-7,Tecnologia,7,Gerente,Gerente de Tecnologia,23328.0,32400.0,41472.0,1.35
+TEC-8,Tecnologia,8,Diretor,Diretor de Tecnologia,42525.0,60750.0,78975.0,1.35
+JUR-1,Jurídico,1,Assistente,Assistente de Jurídico,2688.0,3360.0,4032.0,1.2
+JUR-2,Jurídico,2,Analista Júnior,Analista Júnior de Jurídico,4032.0,5040.0,6048.0,1.2
+JUR-3,Jurídico,3,Analista Pleno,Analista Pleno de Jurídico,6084.0,7800.0,9516.0,1.2
+JUR-4,Jurídico,4,Analista Sênior,Analista Sênior de Jurídico,8892.0,11400.0,13908.0,1.2
+JUR-5,Jurídico,5,Especialista,Especialista de Jurídico,12150.0,16200.0,20250.0,1.2
+JUR-6,Jurídico,6,Coordenador,Coordenador de Jurídico,14400.0,19200.0,24000.0,1.2
+JUR-7,Jurídico,7,Gerente,Gerente de Jurídico,20736.0,28800.0,36864.0,1.2
+JUR-8,Jurídico,8,Diretor,Diretor de Jurídico,37800.0,54000.0,70200.0,1.2
+FIN-1,Financeiro,1,Assistente,Assistente de Financeiro,2576.0,3220.0,3864.0,1.15
+FIN-2,Financeiro,2,Analista Júnior,Analista Júnior de Financeiro,3864.0,4830.0,5796.0,1.15
+FIN-3,Financeiro,3,Analista Pleno,Analista Pleno de Financeiro,5830.5,7475.0,9119.5,1.15
+FIN-4,Financeiro,4,Analista Sênior,Analista Sênior de Financeiro,8521.5,10925.0,13328.5,1.15
+FIN-5,Financeiro,5,Especialista,Especialista de Financeiro,11643.75,15525.0,19406.25,1.15
+FIN-6,Financeiro,6,Coordenador,Coordenador de Financeiro,13800.0,18400.0,23000.0,1.15
+FIN-7,Financeiro,7,Gerente,Gerente de Financeiro,19872.0,27600.0,35328.0,1.15
+FIN-8,Financeiro,8,Diretor,Diretor de Financeiro,36225.0,51750.0,67275.0,1.15
+COM-1,Comercial,1,Assistente,Assistente de Comercial,2464.0,3080.0,3696.0,1.1
+COM-2,Comercial,2,Analista Júnior,Analista Júnior de Comercial,3696.0,4620.0,5544.0,1.1
+COM-3,Comercial,3,Analista Pleno,Analista Pleno de Comercial,5577.0,7150.0,8723.0,1.1
+COM-4,Comercial,4,Analista Sênior,Analista Sênior de Comercial,8151.0,10450.0,12749.0,1.1
+COM-5,Comercial,5,Especialista,Especialista de Comercial,11137.5,14850.0,18562.5,1.1
+COM-6,Comercial,6,Coordenador,Coordenador de Comercial,13200.0,17600.0,22000.0,1.1
+COM-7,Comercial,7,Gerente,Gerente de Comercial,19008.0,26400.0,33792.0,1.1
+COM-8,Comercial,8,Diretor,Diretor de Comercial,34650.0,49500.0,64350.0,1.1
+MAR-1,Marketing,1,Assistente,Assistente de Marketing,2240.0,2800.0,3360.0,1.0
+MAR-2,Marketing,2,Analista Júnior,Analista Júnior de Marketing,3360.0,4200.0,5040.0,1.0
+MAR-3,Marketing,3,Analista Pleno,Analista Pleno de Marketing,5070.0,6500.0,7930.0,1.0
+MAR-4,Marketing,4,Analista Sênior,Analista Sênior de Marketing,7410.0,9500.0,11590.0,1.0
+MAR-5,Marketing,5,Especialista,Especialista de Marketing,10125.0,13500.0,16875.0,1.0
+MAR-6,Marketing,6,Coordenador,Coordenador de Marketing,12000.0,16000.0,20000.0,1.0
+MAR-7,Marketing,7,Gerente,Gerente de Marketing,17280.0,24000.0,30720.0,1.0
+MAR-8,Marketing,8,Diretor,Diretor de Marketing,31500.0,45000.0,58500.0,1.0
+REC-1,Recursos Humanos,1,Assistente,Assistente de Recursos Humanos,2128.0,2660.0,3192.0,0.95
+REC-2,Recursos Humanos,2,Analista Júnior,Analista Júnior de Recursos Humanos,3192.0,3990.0,4788.0,0.95
+REC-3,Recursos Humanos,3,Analista Pleno,Analista Pleno de Recursos Humanos,4816.5,6175.0,7533.5,0.95
+REC-4,Recursos Humanos,4,Analista Sênior,Analista Sênior de Recursos Humanos,7039.5,9025.0,11010.5,0.95
+REC-5,Recursos Humanos,5,Especialista,Especialista de Recursos Humanos,9618.75,12825.0,16031.25,0.95
+REC-6,Recursos Humanos,6,Coordenador,Coordenador de Recursos Humanos,11400.0,15200.0,19000.0,0.95
+REC-7,Recursos Humanos,7,Gerente,Gerente de Recursos Humanos,16416.0,22800.0,29184.0,0.95
+REC-8,Recursos Humanos,8,Diretor,Diretor de Recursos Humanos,29925.0,42750.0,55575.0,0.95
+OPE-1,Operações,1,Assistente,Assistente de Operações,2016.0,2520.0,3024.0,0.9
+OPE-2,Operações,2,Analista Júnior,Analista Júnior de Operações,3024.0,3780.0,4536.0,0.9
+OPE-3,Operações,3,Analista Pleno,Analista Pleno de Operações,4563.0,5850.0,7137.0,0.9
+OPE-4,Operações,4,Analista Sênior,Analista Sênior de Operações,6669.0,8550.0,10431.0,0.9
+OPE-5,Operações,5,Especialista,Especialista de Operações,9112.5,12150.0,15187.5,0.9
+OPE-6,Operações,6,Coordenador,Coordenador de Operações,10800.0,14400.0,18000.0,0.9
+OPE-7,Operações,7,Gerente,Gerente de Operações,15552.0,21600.0,27648.0,0.9
+OPE-8,Operações,8,Diretor,Diretor de Operações,28350.0,40500.0,52650.0,0.9
+ATE-1,Atendimento,1,Assistente,Assistente de Atendimento,1792.0,2240.0,2688.0,0.8
+ATE-2,Atendimento,2,Analista Júnior,Analista Júnior de Atendimento,2688.0,3360.0,4032.0,0.8
+ATE-3,Atendimento,3,Analista Pleno,Analista Pleno de Atendimento,4056.0,5200.0,6344.0,0.8
+ATE-4,Atendimento,4,Analista Sênior,Analista Sênior de Atendimento,5928.0,7600.0,9272.0,0.8
+ATE-5,Atendimento,5,Especialista,Especialista de Atendimento,8100.0,10800.0,13500.0,0.8
+ATE-6,Atendimento,6,Coordenador,Coordenador de Atendimento,9600.0,12800.0,16000.0,0.8
+ATE-7,Atendimento,7,Gerente,Gerente de Atendimento,13824.0,19200.0,24576.0,0.8
+ATE-8,Atendimento,8,Diretor,Diretor de Atendimento,25200.0,36000.0,46800.0,0.8

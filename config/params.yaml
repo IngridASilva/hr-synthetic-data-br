@@ -1,0 +1,146 @@
+# ---------------------------------------------------------------------------
+# Parâmetros da simulação. Tudo que é premissa de negócio mora aqui, não no
+# código. Quem for auditar a base precisa conseguir ler este arquivo e
+# entender o cenário sem abrir Python.
+# ---------------------------------------------------------------------------
+
+seed: 42
+
+periodo:
+  inicio: "2021-01"   # primeiro mês simulado
+  fim: "2025-12"      # último mês simulado
+
+headcount:
+  inicial: 1400
+  # Crescimento anual planejado do quadro. Negativo = redução.
+  crescimento_anual:
+    2021: 0.06
+    2022: 0.10
+    2023: 0.02
+    2024: -0.03   # ano de contenção
+    2025: 0.05
+
+remuneracao:
+  # Dissídio (reajuste coletivo) aplicado no mês da data-base de cada sindicato.
+  dissidio_por_ano:
+    2021: 0.0620
+    2022: 0.1080
+    2023: 0.0550
+    2024: 0.0450
+    2025: 0.0480
+  mes_ciclo_merito: 4          # abril: mérito individual
+  merito_por_performance:      # % de aumento por rating
+    1: 0.0
+    2: 0.0
+    3: 0.020
+    4: 0.045
+    5: 0.070
+  salto_promocao_min: 0.08
+  salto_promocao_max: 0.18
+  # Dispersão do salário de entrada em torno da mediana da faixa.
+  entrada_media_compa: 0.92
+  entrada_sd_compa: 0.09
+
+performance:
+  mes_ciclo: 1                 # janeiro: fechamento do ciclo anual
+  # Distribuição alvo dos ratings (curva forçada leve).
+  distribuicao: {1: 0.03, 2: 0.12, 3: 0.55, 4: 0.23, 5: 0.07}
+  # Persistência ano a ano: quanto o rating anterior explica o próximo.
+  persistencia: 0.55
+
+promocao:
+  meses_minimos_no_cargo: 12
+  performance_minima: 4
+
+turnover:
+  # Choque exógeno em log-odds aplicado ao hazard voluntário por ano.
+  # Representa aquecimento/esfriamento do mercado de trabalho.
+  choque_mercado_por_ano:
+    2021: 0.25
+    2022: 0.40
+    2023: -0.10
+    2024: -0.25
+    2025: 0.05
+  # Eventos de reestruturação: corte pontual em uma área.
+  reestruturacoes:
+    - mes: "2024-03"
+      id_area: 5        # Produção
+      percentual: 0.12
+    - mes: "2024-08"
+      id_area: 2        # Vendas Varejo
+      percentual: 0.09
+
+encargos:
+  inss_patronal: 0.20
+  rat: 0.02
+  terceiros: 0.058
+  fgts: 0.08
+  # Provisões mensais
+  provisao_13o: true
+  provisao_ferias: true
+
+beneficios:
+  vale_refeicao_dia: 42.00
+  dias_uteis_mes: 21
+  vale_transporte_mes: 320.00       # apenas Presencial e Híbrido
+  seguro_vida_mes: 34.00
+  plano_saude_por_faixa:            # faixa etária -> custo mensal empresa
+    "ate_29": 380.00
+    "30_39": 520.00
+    "40_49": 720.00
+    "50_mais": 1150.00
+
+rescisao:
+  # Multiplicadores usados no custo de desligamento.
+  aviso_previo_meses: 1.0
+  multa_fgts_involuntario: 0.40     # sobre o saldo estimado de FGTS
+  # Custo de reposição como múltiplo do salário mensal, por criticidade.
+  # Recrutamento + seleção + onboarding + curva de ramp-up.
+  multiplo_reposicao:
+    Alta: 6.0
+    Média: 4.0
+    Baixa: 2.5
+
+# ---------------------------------------------------------------------------
+# Mecanismos de desigualdade salarial.
+#
+# Desligado por padrão. Quando ativo, injeta três mecanismos DISTINTOS, que é
+# o ponto: a análise de equidade do Projeto 3 precisa separá-los, e só dá para
+# verificar se ela separa direito quando se conhece a verdade.
+#
+#   segregacao_ocupacional  -> gera gap EXPLICADO (composição por área)
+#   penalidade_entrada      -> gera gap NÃO EXPLICADO (mesmo cargo, menos salário)
+#   multiplicador_promocao  -> gera teto de vidro (acumula ao longo da carreira)
+#
+# Os valores abaixo são ilustrativos e calibrados para produzir um gap
+# mensurável. Não representam nenhuma empresa real.
+# ---------------------------------------------------------------------------
+equidade:
+  ativo: true
+
+  # Multiplicador do peso da área na contratação, por grupo.
+  # Valor < 1 significa sub-representação no destino.
+  segregacao_ocupacional:
+    Tecnologia:        { Feminino: 0.40 }
+    Comercial:         { Feminino: 0.75 }
+    Operações:         { Feminino: 0.55 }
+    Recursos Humanos:  { Feminino: 1.90 }
+    Atendimento:       { Feminino: 1.70 }
+    Marketing:         { Feminino: 1.40 }
+
+  # Desconto no compa-ratio de entrada, no MESMO cargo. Acumulativo entre
+  # gênero e raça/cor.
+  penalidade_entrada_compa:
+    Feminino: 0.045
+    Preta:    0.030
+    Parda:    0.020
+
+  # Multiplicador da probabilidade mensal de promoção.
+  multiplicador_promocao:
+    Feminino: 0.78
+    Preta:    0.80
+    Parda:    0.88
+
+saida:
+  diretorio: "data/equidade"
+  formatos: ["parquet"]   # adicione "csv" se quiser inspecionar no GitHub

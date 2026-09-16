@@ -1,0 +1,201 @@
+﻿matricula,nome,hash_documento,data_nascimento,genero,raca_cor,escolaridade,estado_civil,num_dependentes,uf,cidade,distancia_km,data_admissao,data_desligamento,tipo_desligamento,motivo_desligamento,status
+100001,Karina Vieira,abfe5593ac2fee7e,1972-09-13,Feminino,Parda,Superior Completo,Solteiro(a),1,SP,São Paulo,20.2,2013-06-01,,,,Ativo
+100002,Renata Pereira,4f02ad3b0846ca9a,1972-04-27,Feminino,Parda,Pós-graduação,Solteiro(a),1,SP,São Paulo,18.2,2019-01-01,,,,Ativo
+100003,Rafael Oliveira,39afb229421908ab,1998-09-22,Masculino,Parda,Superior Completo,Casado(a),1,SP,São Paulo,31.1,2020-01-01,,,,Ativo
+100004,Renata Santos,d681c6d51d0e9072,1978-10-22,Feminino,Branca,Pós-graduação,Solteiro(a),0,PR,Curitiba,18.3,2019-02-01,2025-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100005,Natália Nascimento,537299ab40dbb679,1996-06-16,Feminino,Preta,Superior Incompleto,Casado(a),1,BA,Salvador,12.7,2020-06-01,2023-09-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100006,Bruno Jesus,14c8da8b4d05fa14,1992-05-15,Masculino,Parda,Superior Incompleto,Solteiro(a),0,MG,Belo Horizonte,4.6,2020-02-01,,,,Ativo
+100007,Igor Jesus,b04dbf188a99388e,1984-11-08,Masculino,Branca,Superior Completo,Casado(a),0,BA,Salvador,4.8,2019-12-01,2025-07-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100008,Bruno Teixeira,9f65e8684ce81c76,1970-06-25,Masculino,Preta,Pós-graduação,Solteiro(a),1,SP,São Paulo,6.3,2010-04-01,2022-05-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100009,Ana Queiroz,3e86694e319f4792,1979-03-05,Feminino,Preta,Superior Completo,Solteiro(a),0,SP,São Paulo,3.7,2016-08-01,,,,Ativo
+100010,Helena Almeida,b258ee952967225b,1998-11-27,Feminino,Parda,Superior Incompleto,Solteiro(a),0,RJ,Rio de Janeiro,5.4,2017-08-01,,,,Ativo
+100011,Sérgio Carvalho,2fc50d267bcc5cd2,1991-01-01,Masculino,Branca,Pós-graduação,Solteiro(a),2,BA,Salvador,9.3,2017-10-01,,,,Ativo
+100012,Isabela Lima,2d94ca60f52eda43,1994-03-03,Feminino,Preta,Superior Completo,Solteiro(a),0,SP,São Paulo,4.0,2019-06-01,,,,Ativo
+100013,Isabela Martins,fc909110b649d5c6,1986-08-12,Feminino,Branca,Ensino Médio,Solteiro(a),1,PE,Recife,6.3,2019-06-01,,,,Ativo
+100014,Henrique Rodrigues,3620cd161ce774b0,1981-02-06,Masculino,Parda,Pós-graduação,Casado(a),1,MG,Belo Horizonte,9.2,2018-01-01,,,,Ativo
+100015,Eduardo Ferreira,e5156b77f499caa8,1982-06-02,Masculino,Parda,Superior Completo,Casado(a),0,RJ,Rio de Janeiro,35.6,2020-02-01,2024-06-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100016,Vanessa Lima,2a4a36fa395d8d3f,1994-12-25,Feminino,Branca,Pós-graduação,Casado(a),0,RJ,Rio de Janeiro,18.4,2020-12-01,,,,Ativo
+100017,Carlos Teixeira,a2f5721d2584b94f,1977-02-18,Masculino,Preta,Superior Incompleto,Casado(a),0,SP,São Paulo,17.6,2017-12-01,,,,Ativo
+100018,Carlos Nascimento,cd23c0aa358680e1,1985-09-08,Masculino,Branca,Mestrado/Doutorado,Casado(a),1,SC,Florianópolis,42.3,2019-03-01,,,,Ativo
+100019,Helena Vieira,e752c9a96b101672,1979-04-27,Feminino,Preta,Pós-graduação,Solteiro(a),0,SC,Florianópolis,6.6,2020-01-01,2021-07-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100020,Felipe Vieira,ecc86286eed1aa05,1995-05-14,Masculino,Preta,Superior Completo,Solteiro(a),0,RS,Porto Alegre,9.3,2014-03-01,2022-05-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100021,Beatriz Nascimento,bbb43e0f5d383d27,1967-02-11,Feminino,Preta,Pós-graduação,Casado(a),1,SP,São Paulo,7.5,2016-05-01,2024-05-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100022,Thiago Carvalho,bca8a45136226401,1984-04-19,Masculino,Branca,Superior Completo,Solteiro(a),1,SP,Campinas,14.9,2017-06-01,2021-11-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100023,Gustavo Lima,8166e1b74c8a3a57,1989-09-20,Masculino,Parda,Superior Completo,Casado(a),0,PR,Curitiba,12.5,2016-04-01,,,,Ativo
+100024,Mariana Ibrahim,907447201825830c,1997-05-04,Feminino,Não informado,Superior Incompleto,Casado(a),0,RJ,Rio de Janeiro,2.7,2018-03-01,2021-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100025,Wagner Martins,12b2ed673a54ea69,1998-07-13,Masculino,Parda,Ensino Médio,Solteiro(a),0,SP,São Paulo,30.4,2020-05-01,2021-02-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100026,Yasmin Rodrigues,13eae9dfcf6797d6,1985-03-31,Feminino,Branca,Superior Completo,Casado(a),1,PR,Curitiba,13.6,2020-02-01,2021-03-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100027,Ana Henriques,d697532c5a38e4b4,1979-04-16,Feminino,Branca,Superior Incompleto,Casado(a),0,SP,São Paulo,10.3,2014-12-01,,,,Ativo
+100028,Nelson Jesus,3aa7ec00d89ed3d7,1977-12-20,Masculino,Branca,Pós-graduação,Casado(a),1,RJ,Rio de Janeiro,13.9,2018-11-01,2022-05-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100029,Eduarda Martins,457f38a58486375b,1982-12-25,Feminino,Parda,Superior Completo,Casado(a),3,SP,São Paulo,17.2,2008-04-01,,,,Ativo
+100030,Vinícius Lima,5d677158369be62f,1964-06-27,Masculino,Branca,Superior Completo,Solteiro(a),3,SP,São Paulo,9.3,2012-11-01,,,,Ativo
+100031,Helena Esteves,0c797f2d5e0925f1,1990-09-13,Feminino,Branca,Superior Incompleto,Divorciado(a),0,SP,Campinas,2.1,2019-01-01,2021-01-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100032,João Almeida,f0422fee9abd24f9,1986-06-20,Masculino,Preta,Superior Completo,Divorciado(a),1,SP,Campinas,18.3,2018-10-01,2022-05-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100033,Beatriz Esteves,f38c8c1e61a54220,1978-01-07,Feminino,Parda,Pós-graduação,Solteiro(a),0,SP,São Paulo,4.6,2016-01-01,,,,Ativo
+100034,João Jesus,e893117518f760fb,1989-08-28,Masculino,Amarela,Superior Incompleto,Solteiro(a),1,SP,Campinas,5.2,2019-07-01,2022-06-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100035,João Esteves,cd4f0d11c9ad0f41,1987-09-08,Masculino,Preta,Superior Completo,Solteiro(a),1,PE,Recife,36.6,2020-12-01,2022-10-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100036,Larissa Santos,ad17f7ebf6e7c2dd,1998-10-22,Feminino,Preta,Ensino Médio,Casado(a),0,PR,Curitiba,34.4,2017-11-01,2022-07-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100037,Bruno Santos,03232d542d79f5d2,1989-10-02,Masculino,Branca,Superior Completo,Casado(a),0,RJ,Rio de Janeiro,16.9,2020-12-01,2022-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100038,Nelson Pereira,e14a380dc6f507ef,1981-12-08,Masculino,Preta,Superior Completo,Solteiro(a),1,RS,Porto Alegre,14.1,2016-12-01,,,,Ativo
+100039,Otávio Pereira,d8e9fe84304ae588,1982-03-20,Masculino,Parda,Ensino Médio,Solteiro(a),1,PE,Recife,12.9,2015-03-01,2022-09-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100040,Larissa Gomes,d6f60f7fc98db3fe,1977-07-17,Feminino,Preta,Superior Completo,Solteiro(a),0,MG,Belo Horizonte,4.9,2018-12-01,2023-07-01,Involuntário,Dispensa por justa causa,Desligado
+100041,Camila Ferreira,9695e37da3166766,1983-05-14,Feminino,Branca,Pós-graduação,Casado(a),0,SC,Florianópolis,9.6,2015-09-01,2024-01-01,Involuntário,Dispensa por justa causa,Desligado
+100042,Tatiane Rodrigues,c78f2c0a4b33cc8e,1982-11-05,Feminino,Branca,Pós-graduação,Casado(a),0,BA,Salvador,41.9,2020-04-01,,,,Ativo
+100043,Gabriela Esteves,bb600d80703a2737,1993-01-19,Feminino,Branca,Superior Completo,Solteiro(a),0,RJ,Rio de Janeiro,38.3,2020-02-01,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100044,Vanessa Dias,09e9636c23f0d362,1983-04-02,Feminino,Preta,Superior Completo,Casado(a),1,SP,São Paulo,8.7,2019-03-01,2023-05-01,Involuntário,Dispensa por justa causa,Desligado
+100045,Eduarda Teixeira,b7a7625aab73241f,1980-03-19,Feminino,Branca,Ensino Médio,Casado(a),0,SP,São Paulo,15.0,2010-07-01,,,,Ativo
+100046,Nelson Martins,d5ae7bcbc456291d,1994-09-17,Masculino,Indígena,Superior Completo,Solteiro(a),1,SC,Florianópolis,9.1,2012-10-01,,,,Ativo
+100047,Carlos Oliveira,fe087cb3219247a9,1989-09-12,Masculino,Branca,Ensino Médio,Solteiro(a),0,PR,Curitiba,2.2,2020-01-01,2021-05-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100048,Ana Gomes,a1bbc481846b5e6a,1969-05-18,Feminino,Parda,Mestrado/Doutorado,Casado(a),2,MG,Belo Horizonte,16.6,2019-01-01,2021-01-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100049,Wagner Queiroz,29e33bb4364f7ce6,1976-11-24,Masculino,Branca,Superior Completo,Solteiro(a),2,MG,Belo Horizonte,15.8,2014-01-01,,,,Ativo
+100050,Juliana Almeida,d086ce4e28b24ed1,1956-02-29,Feminino,Preta,Mestrado/Doutorado,Casado(a),0,SP,São Paulo,10.4,2019-08-01,,,,Ativo
+100051,Beatriz Lima,d86a6857d85b7e93,1975-06-26,Não informado,Branca,Pós-graduação,Casado(a),2,SP,Campinas,18.1,2018-03-01,,,,Ativo
+100052,Paulo Ferreira,eda17c08854b1272,1991-12-08,Masculino,Branca,Ensino Médio,Solteiro(a),2,PR,Curitiba,10.1,2021-01-01,2024-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100053,Gabriela Henriques,9b7df1ee40541b39,1997-12-16,Feminino,Branca,Pós-graduação,Viúvo(a),0,SP,São Paulo,8.5,2019-08-01,2021-01-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100054,Eduardo Teixeira,4d55a182b999f97d,1990-10-19,Masculino,Parda,Superior Completo,Casado(a),0,RS,Porto Alegre,36.7,2011-02-01,2021-09-01,Involuntário,Dispensa por justa causa,Desligado
+100055,Helena Almeida,90c75efe9d937861,1993-01-26,Feminino,Branca,Superior Completo,Solteiro(a),1,PE,Recife,31.7,2017-09-01,2023-08-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100056,Tatiane Lima,26c408de0708c588,1987-11-23,Feminino,Branca,Superior Completo,Casado(a),0,PE,Recife,6.3,2019-04-01,2022-07-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100057,Vinícius Dias,55b1ac2377734d10,1980-05-05,Masculino,Branca,Superior Completo,Solteiro(a),0,SP,São Paulo,36.1,2016-09-01,,,,Ativo
+100058,Juliana Ferreira,9eabd4718aa40cc4,1965-11-18,Feminino,Branca,Superior Completo,Solteiro(a),1,RJ,Rio de Janeiro,6.9,2015-05-01,,,,Ativo
+100059,Camila Teixeira,8760db69c28ccb73,1997-10-09,Feminino,Parda,Ensino Médio,Casado(a),0,RJ,Rio de Janeiro,23.8,2020-10-01,2022-03-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100060,Alexandre Esteves,f6d03e4ec1fd6671,1983-12-19,Masculino,Branca,Pós-graduação,Casado(a),1,SP,São Paulo,12.0,2015-07-01,2022-02-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100061,Leonardo Jesus,b54f784361e8aa2a,1972-07-05,Masculino,Branca,Pós-graduação,Solteiro(a),0,RJ,Rio de Janeiro,13.9,2020-02-01,,,,Ativo
+100062,Diego Santos,527fc26dd175b640,1996-11-12,Masculino,Parda,Ensino Médio,Solteiro(a),1,RJ,Rio de Janeiro,4.6,2018-07-01,2021-05-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100063,Yasmin Barbosa,7e439e1392c69e29,1997-07-19,Feminino,Preta,Superior Incompleto,Divorciado(a),2,SC,Florianópolis,28.3,2019-11-01,2022-02-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100064,Gabriela Ferreira,6b720ddf546a80e2,1984-01-22,Feminino,Branca,Superior Incompleto,Solteiro(a),0,PR,Curitiba,5.2,2017-06-01,,,,Ativo
+100065,Henrique Teixeira,0d995e63dfe54fc1,1990-04-05,Masculino,Branca,Ensino Médio,Solteiro(a),0,RJ,Rio de Janeiro,2.5,2020-12-01,2022-07-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100066,Mariana Rodrigues,766361fd7b2ddde1,1982-03-10,Feminino,Parda,Superior Incompleto,Solteiro(a),2,SP,São Paulo,13.2,2019-06-01,,,,Ativo
+100067,Felipe Jesus,6fdd09959571d8c8,1967-06-14,Masculino,Branca,Pós-graduação,Casado(a),2,SP,Campinas,10.7,2012-04-01,2022-04-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100068,Sérgio Carvalho,a6ebf185c9af61fa,1994-10-02,Masculino,Parda,Ensino Médio,Divorciado(a),2,SC,Florianópolis,8.5,2020-07-01,2021-02-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100069,Isabela Jesus,19339357cd002e09,1984-02-02,Feminino,Parda,Pós-graduação,Solteiro(a),0,RS,Porto Alegre,6.9,2019-09-01,2022-03-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100070,Paulo Barbosa,c22f25765265006b,1979-02-27,Masculino,Branca,Superior Completo,Solteiro(a),1,SC,Florianópolis,24.4,2017-02-01,2023-01-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100071,Carlos Santos,a4742ddfeb2cfc77,1977-01-14,Masculino,Branca,Superior Completo,Solteiro(a),0,BA,Salvador,4.5,2018-03-01,2024-02-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100072,Isabela Ferreira,a262ae8086b3d362,1997-03-29,Feminino,Branca,Superior Incompleto,Casado(a),1,SC,Florianópolis,13.2,2019-12-01,2021-03-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100073,Camila Henriques,8d3a48f4afc7e110,1995-02-03,Feminino,Parda,Superior Incompleto,Viúvo(a),0,SP,São Paulo,3.1,2018-04-01,2021-08-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100074,Helena Dias,841343e7b354b398,1987-08-16,Feminino,Branca,Superior Completo,Solteiro(a),1,SP,São Paulo,11.3,2016-06-01,2021-03-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100075,Leonardo Gomes,59d45a2bfd09c0d5,1993-07-20,Masculino,Parda,Ensino Médio,Casado(a),2,BA,Salvador,1.9,2018-02-01,,,,Ativo
+100076,Rafael Ferreira,e56e3acbe8f1725b,1985-11-23,Masculino,Parda,Superior Completo,Casado(a),1,PR,Curitiba,31.3,2006-06-01,,,,Ativo
+100077,Juliana Esteves,c8136db32e098980,1992-01-06,Feminino,Indígena,Superior Completo,Solteiro(a),1,SP,São Paulo,7.4,2019-05-01,2023-10-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100078,Larissa Gomes,604d5fe8b160fa01,1993-05-17,Feminino,Branca,Superior Completo,Divorciado(a),1,RJ,Rio de Janeiro,94.0,2020-05-01,,,,Ativo
+100079,Daniela Carvalho,0fe34c793c802eba,1996-09-09,Feminino,Preta,Ensino Médio,Casado(a),1,RS,Porto Alegre,7.5,2018-10-01,2025-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100080,Wagner Nascimento,a9829479c43ddd9f,1984-11-23,Masculino,Parda,Pós-graduação,Solteiro(a),1,SP,São Paulo,6.0,2018-10-01,,,,Ativo
+100081,Gabriela Ibrahim,1ee63e54f98f9aab,1973-02-23,Feminino,Amarela,Superior Completo,Casado(a),1,PR,Curitiba,3.4,2019-12-01,,,,Ativo
+100082,Eduarda Martins,16b8268db08e0430,1962-12-25,Feminino,Parda,Superior Incompleto,Solteiro(a),1,SP,Campinas,9.2,2002-03-01,,,,Ativo
+100083,Natália Ferreira,bd7a2a27e5d297cf,1992-07-31,Feminino,Branca,Mestrado/Doutorado,Solteiro(a),4,MG,Belo Horizonte,26.6,2020-05-01,,,,Ativo
+100084,Yasmin Lima,1f8b2b310cf75cf4,1977-05-16,Feminino,Branca,Pós-graduação,Solteiro(a),1,SP,São Paulo,12.0,2018-07-01,2023-02-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100085,Juliana Rodrigues,66af9a001ea3ff4f,1989-05-16,Feminino,Parda,Superior Incompleto,Casado(a),2,RJ,Rio de Janeiro,13.9,2020-07-01,2021-05-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100086,Alexandre Esteves,b7736ae6252c33ab,1992-12-22,Masculino,Branca,Superior Completo,Solteiro(a),1,SP,São Paulo,14.4,2020-08-01,,,,Ativo
+100087,Tatiane Queiroz,fadefd71a1b42642,1979-10-22,Feminino,Branca,Mestrado/Doutorado,Casado(a),1,SP,São Paulo,23.6,2020-01-01,,,,Ativo
+100088,Vinícius Lima,c0d240dac6d057b3,1999-02-07,Masculino,Branca,Superior Completo,Casado(a),1,PE,Recife,6.6,2020-11-01,2022-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100089,Paulo Lima,ecba07a5e7567413,1996-02-18,Masculino,Branca,Pós-graduação,Casado(a),0,SP,São Paulo,32.1,2019-03-01,,,,Ativo
+100090,Isabela Gomes,aa1ad6b14194f99f,2001-03-09,Feminino,Parda,Ensino Médio,Casado(a),0,SP,Campinas,13.3,2019-11-01,2021-06-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100091,Vinícius Ferreira,4e6142dba25dec6d,1991-08-02,Masculino,Branca,Superior Completo,Viúvo(a),0,SP,São Paulo,16.1,2020-02-01,,,,Ativo
+100092,Nelson Almeida,8c7c2f4aa8b66e0d,1985-09-29,Masculino,Parda,Superior Completo,Solteiro(a),1,SC,Florianópolis,12.9,2014-11-01,,,,Ativo
+100093,Isabela Gomes,c7a87479300c2143,1975-02-15,Feminino,Branca,Superior Completo,Casado(a),0,RJ,Rio de Janeiro,16.8,2019-08-01,,,,Ativo
+100094,Juliana Carvalho,c79a382c4213bdd7,1975-01-24,Feminino,Branca,Superior Completo,Solteiro(a),0,SP,São Paulo,41.6,2019-08-01,2021-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100095,Fernanda Queiroz,2b327e938a46f830,1985-10-24,Feminino,Preta,Superior Incompleto,Solteiro(a),2,SP,São Paulo,16.4,2018-03-01,2022-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100096,Vinícius Lima,d17a5ceabfd9f148,1987-03-26,Masculino,Branca,Superior Completo,Casado(a),0,SP,São Paulo,22.0,2019-02-01,2021-04-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100097,Mariana Martins,c1858ed96d54e338,1984-05-09,Feminino,Parda,Superior Completo,Solteiro(a),2,PR,Curitiba,36.1,2019-11-01,,,,Ativo
+100098,Sérgio Ferreira,f671c5dc25d7f6c0,1979-12-29,Masculino,Parda,Superior Completo,Casado(a),0,PE,Recife,18.0,2020-04-01,,,,Ativo
+100099,Gabriela Henriques,e63ee351a0f18cc4,1983-06-06,Feminino,Parda,Superior Completo,Solteiro(a),1,SP,São Paulo,16.6,2020-03-01,2021-07-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100100,Isabela Jesus,f07bc3964a79ecdf,1986-04-20,Feminino,Parda,Superior Completo,Casado(a),0,SP,São Paulo,11.8,2019-09-01,,,,Ativo
+100101,Sérgio Jesus,d45cb2eb25e12e54,1976-01-22,Masculino,Parda,Ensino Médio,Casado(a),2,RJ,Rio de Janeiro,6.7,2016-07-01,,,,Ativo
+100102,Larissa Jesus,4ecb8964044a0dd9,1980-11-11,Feminino,Branca,Superior Completo,Solteiro(a),1,SC,Florianópolis,5.8,2017-10-01,2022-03-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100103,Fernanda Martins,fa5001bd4aee5671,1986-01-19,Feminino,Parda,Ensino Médio,Casado(a),1,SP,São Paulo,16.5,2019-09-01,2021-03-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100104,Yasmin Gomes,4fc74039e9b9a928,1985-06-04,Feminino,Branca,Superior Completo,Solteiro(a),1,PE,Recife,46.7,2020-04-01,2022-05-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100105,Juliana Lima,70af0f3ea4136e1c,1992-05-20,Feminino,Parda,Superior Incompleto,Divorciado(a),2,SC,Florianópolis,14.2,2020-09-01,2021-10-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100106,Renata Rodrigues,0e35375e67011c39,1980-11-17,Feminino,Branca,Ensino Médio,Casado(a),1,RS,Porto Alegre,2.5,2019-10-01,,,,Ativo
+100107,Helena Dias,a50bd3f063c76712,1975-09-12,Feminino,Parda,Superior Completo,Solteiro(a),0,PR,Curitiba,13.5,2018-02-01,,,,Ativo
+100108,Larissa Santos,cd0c394498d680db,1995-02-27,Feminino,Parda,Superior Incompleto,Casado(a),3,SP,São Paulo,8.7,2019-02-01,,,,Ativo
+100109,Ana Esteves,0372d2cdd3e46fc4,1981-08-31,Feminino,Parda,Superior Completo,Casado(a),2,SP,São Paulo,6.8,2020-01-01,,,,Ativo
+100110,Juliana Almeida,8a270f134fea1253,1980-02-08,Feminino,Parda,Superior Incompleto,Solteiro(a),0,SP,São Paulo,44.1,2013-11-01,2023-04-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100111,Marcelo Carvalho,de10a98cf100dc65,1999-03-10,Masculino,Branca,Superior Incompleto,Casado(a),1,BA,Salvador,12.3,2019-02-01,,,,Ativo
+100112,Wagner Santos,825b355fdeb0aae6,1981-05-17,Masculino,Parda,Superior Completo,Solteiro(a),0,SP,São Paulo,3.4,2020-11-01,2021-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100113,Leonardo Nascimento,62341acffb6e81fd,1979-02-26,Masculino,Parda,Superior Incompleto,Casado(a),0,RJ,Rio de Janeiro,33.4,2020-09-01,2021-01-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100114,Otávio Carvalho,28d0b986fe92e61b,2001-09-09,Masculino,Parda,Superior Incompleto,Casado(a),1,SP,São Paulo,14.1,2020-05-01,,,,Ativo
+100115,João Rodrigues,db099490d8a34c74,1986-02-03,Masculino,Branca,Superior Incompleto,Solteiro(a),0,SP,São Paulo,42.0,2015-04-01,2023-02-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100116,Mariana Henriques,6fd01469c8f825a4,1983-03-06,Feminino,Branca,Pós-graduação,Casado(a),0,MG,Belo Horizonte,20.3,2016-08-01,,,,Ativo
+100117,Marcelo Rodrigues,5bd88c2403f0a6ad,1977-06-26,Masculino,Branca,Pós-graduação,Solteiro(a),0,BA,Salvador,5.1,2012-11-01,,,,Ativo
+100118,Thiago Rodrigues,361a34e1230ccd69,1980-02-28,Masculino,Preta,Pós-graduação,Viúvo(a),0,PE,Recife,29.6,2018-12-01,2024-04-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100119,Larissa Esteves,30633a86a5b2990a,1988-11-08,Feminino,Branca,Pós-graduação,Casado(a),1,RJ,Rio de Janeiro,2.2,2020-06-01,2022-02-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100120,Sabrina Queiroz,73590c3c8e654dc5,1981-07-06,Feminino,Não informado,Superior Incompleto,Casado(a),0,RJ,Rio de Janeiro,4.8,2017-04-01,,,,Ativo
+100121,Gustavo Esteves,2a6c4c5d34b48af3,1986-09-10,Masculino,Parda,Mestrado/Doutorado,Viúvo(a),0,SP,São Paulo,13.2,2020-04-01,,,,Ativo
+100122,Mariana Dias,06da7e68f5a27f16,1984-07-11,Feminino,Branca,Ensino Médio,Casado(a),1,RJ,Rio de Janeiro,30.0,2018-12-01,,,,Ativo
+100123,Ana Pereira,740973785161d023,1994-03-23,Feminino,Parda,Pós-graduação,Divorciado(a),0,PE,Recife,22.6,2019-05-01,,,,Ativo
+100124,Bruno Esteves,42e5f2032d54018e,1964-08-12,Masculino,Branca,Pós-graduação,Solteiro(a),1,MG,Belo Horizonte,12.3,2016-07-01,,,,Ativo
+100125,Sérgio Rodrigues,de8f323fb59777f7,1996-06-23,Masculino,Parda,Ensino Médio,Solteiro(a),0,PR,Curitiba,51.0,2020-01-01,,,,Ativo
+100126,Mariana Jesus,5eeea66d13f34bbb,1986-12-10,Feminino,Não informado,Superior Completo,Viúvo(a),1,BA,Salvador,14.9,2020-07-01,2024-07-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100127,Wagner Nascimento,3122eaaf5c03ac8f,1983-11-24,Masculino,Parda,Superior Incompleto,Solteiro(a),0,SP,Campinas,4.7,2018-06-01,,,,Ativo
+100128,Henrique Almeida,6741bb17787ae4b0,1973-06-17,Masculino,Parda,Superior Completo,Divorciado(a),0,SP,São Paulo,9.5,2009-12-01,2022-02-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100129,Juliana Lima,44a33bd913c355b2,2002-08-05,Feminino,Parda,Superior Completo,Viúvo(a),0,SP,São Paulo,10.6,2021-01-01,2022-05-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100130,Ana Oliveira,bd672d229995fd3e,1987-06-10,Feminino,Parda,Ensino Médio,Casado(a),0,RJ,Rio de Janeiro,11.0,2020-02-01,,,,Ativo
+100131,Felipe Oliveira,55ca09bf38038516,1986-08-12,Masculino,Parda,Superior Completo,Solteiro(a),0,SP,São Paulo,31.7,2015-02-01,2022-12-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100132,Henrique Almeida,0b4da2a8b1c06581,1990-03-17,Masculino,Branca,Superior Incompleto,Solteiro(a),0,SP,São Paulo,8.4,2020-03-01,,,,Ativo
+100133,Daniela Martins,6a900c5e75e1ebec,1976-03-30,Feminino,Parda,Superior Completo,Casado(a),2,BA,Salvador,11.8,2015-07-01,,,,Ativo
+100134,João Santos,3883acdd63bd9f14,1989-09-08,Masculino,Branca,Pós-graduação,Casado(a),0,SC,Florianópolis,25.9,2018-04-01,,,,Ativo
+100135,Rafael Teixeira,93146434fcea31a2,1983-02-01,Masculino,Branca,Superior Completo,Solteiro(a),2,PR,Curitiba,1.1,2009-09-01,,,,Ativo
+100136,Gustavo Ibrahim,fa58d2bd53122a5c,1995-04-21,Masculino,Preta,Superior Completo,Casado(a),1,SP,São Paulo,10.9,2020-10-01,2021-05-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100137,Vanessa Ibrahim,d1cf7d79b2bf5e29,1986-06-10,Feminino,Preta,Superior Completo,Solteiro(a),1,SC,Florianópolis,19.1,2018-08-01,2021-04-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100138,Paulo Henriques,206c18653c3d385a,1988-12-17,Masculino,Branca,Pós-graduação,Solteiro(a),1,SP,Campinas,38.1,2019-11-01,,,,Ativo
+100139,Natália Ferreira,f3a6dd4e63931b11,1994-10-27,Feminino,Branca,Superior Completo,Solteiro(a),0,SP,São Paulo,7.8,2019-06-01,2022-03-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100140,Otávio Lima,9ab33ecaeffbc1aa,1979-04-27,Masculino,Branca,Pós-graduação,Solteiro(a),1,RS,Porto Alegre,32.2,2020-06-01,,,,Ativo
+100141,Sabrina Carvalho,9c817e7d279ceab7,1994-08-09,Feminino,Branca,Ensino Médio,Casado(a),1,BA,Salvador,19.7,2018-02-01,,,,Ativo
+100142,Gustavo Pereira,818b1e83b9ddf4cd,1985-10-19,Masculino,Branca,Superior Completo,Casado(a),1,SP,São Paulo,8.4,2018-03-01,2022-02-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100143,Leonardo Queiroz,f62caa08e441436a,1988-04-11,Masculino,Branca,Superior Incompleto,Solteiro(a),2,SP,São Paulo,12.1,2017-02-01,,,,Ativo
+100144,Vanessa Queiroz,560ee895c6a05e57,1986-06-11,Feminino,Branca,Superior Completo,Solteiro(a),0,SP,Campinas,14.5,2018-04-01,,,,Ativo
+100145,Fernanda Rodrigues,5fb15611f049c65d,1992-05-14,Feminino,Branca,Pós-graduação,Solteiro(a),1,SP,São Paulo,18.3,2018-09-01,2024-02-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100146,João Gomes,89b9ff49c00ed4f9,1977-07-27,Masculino,Branca,Pós-graduação,Casado(a),0,RS,Porto Alegre,62.3,2020-03-01,2021-07-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100147,Mariana Pereira,d1b7c80e5d153fbc,1976-03-16,Feminino,Indígena,Superior Incompleto,Solteiro(a),0,PR,Curitiba,2.2,2009-10-01,,,,Ativo
+100148,Juliana Gomes,30681e268f272944,1991-05-28,Feminino,Parda,Superior Incompleto,Solteiro(a),1,RJ,Rio de Janeiro,52.1,2020-06-01,2021-01-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100149,Patrícia Rodrigues,4935bb47c7881837,1987-06-23,Feminino,Branca,Superior Completo,Solteiro(a),0,RS,Porto Alegre,24.4,2019-09-01,2022-02-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100150,Camila Ferreira,da1b6bf39b3abb4f,1990-06-02,Feminino,Preta,Superior Completo,Solteiro(a),1,MG,Belo Horizonte,9.8,2016-01-01,,,,Ativo
+100151,Wagner Lima,255d252e416363e8,1980-09-23,Masculino,Amarela,Superior Completo,Solteiro(a),0,MG,Belo Horizonte,21.3,2011-04-01,,,,Ativo
+100152,Igor Vieira,4e3a24720c01b040,1981-03-14,Masculino,Preta,Superior Incompleto,Casado(a),0,SP,São Paulo,2.3,2012-05-01,,,,Ativo
+100153,Wagner Gomes,3aa6aa0341644cb4,1965-06-24,Masculino,Branca,Pós-graduação,Casado(a),1,SP,São Paulo,16.6,2012-12-01,2021-09-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100154,Alexandre Ferreira,4559b5fb72e7b472,1982-07-21,Masculino,Branca,Ensino Médio,Divorciado(a),0,PR,Curitiba,7.7,2018-01-01,2022-12-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100155,Bruno Rodrigues,a84bdfa84ff31f5b,1988-06-16,Masculino,Branca,Superior Completo,Casado(a),1,PR,Curitiba,16.7,2014-01-01,2023-01-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100156,Otávio Pereira,2d9da16f3d506faf,1981-12-02,Masculino,Amarela,Superior Completo,Casado(a),1,SC,Florianópolis,20.4,2017-06-01,2024-06-01,Voluntário,Pedido de demissão - motivos pessoais,Desligado
+100157,Wagner Jesus,6a391c104d9ad685,1996-07-09,Masculino,Branca,Superior Incompleto,Solteiro(a),2,MG,Belo Horizonte,19.5,2020-07-01,,,,Ativo
+100158,Ana Carvalho,af9404dec7714f9f,1968-02-25,Feminino,Parda,Pós-graduação,Divorciado(a),0,BA,Salvador,1.0,2014-09-01,2024-11-01,Involuntário,Dispensa por justa causa,Desligado
+100159,Larissa Henriques,e95e7a8b6fb67e72,1982-02-28,Feminino,Amarela,Superior Completo,Casado(a),0,PR,Curitiba,17.9,2020-08-01,2022-05-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100160,Karina Martins,3e73f9556f468383,1990-05-19,Não informado,Amarela,Pós-graduação,Solteiro(a),0,SP,São Paulo,11.1,2016-04-01,2022-03-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100161,Fernanda Vieira,4f71bca4b8b2d2fe,1982-02-01,Feminino,Parda,Superior Completo,Solteiro(a),0,MG,Belo Horizonte,36.8,2017-05-01,,,,Ativo
+100162,Fernanda Carvalho,bedfee698c38a124,1991-02-07,Feminino,Branca,Superior Incompleto,Solteiro(a),0,SP,São Paulo,24.8,2019-12-01,2021-03-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100163,João Santos,c92d4960de643b59,1988-11-09,Masculino,Parda,Ensino Médio,Solteiro(a),0,SP,São Paulo,11.1,2018-04-01,2023-03-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100164,Eduarda Queiroz,b1fa7ddfaabb9c50,1973-12-29,Feminino,Parda,Pós-graduação,Casado(a),0,SP,São Paulo,20.6,2018-02-01,,,,Ativo
+100165,Eduarda Oliveira,bfb1fd24337d455f,1994-10-15,Feminino,Parda,Superior Completo,Casado(a),1,SC,Florianópolis,29.4,2017-09-01,2022-08-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100166,Paulo Lima,617837367b3976f3,1987-10-26,Masculino,Preta,Superior Completo,Casado(a),0,SP,São Paulo,28.9,2016-10-01,2021-03-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100167,Rafael Jesus,ed53dbb35859aedb,1983-03-16,Masculino,Branca,Superior Incompleto,Solteiro(a),0,SP,São Paulo,17.1,2012-11-01,2025-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100168,João Jesus,ab85bf39589b2333,1978-01-17,Masculino,Parda,Pós-graduação,Divorciado(a),1,SP,São Paulo,66.8,2018-10-01,,,,Ativo
+100169,Ana Ferreira,11309fd1bd1fd8b1,1985-11-22,Feminino,Amarela,Superior Completo,Casado(a),1,SP,São Paulo,16.3,2019-03-01,,,,Ativo
+100170,Eduardo Ibrahim,214a3baa16443099,1989-02-14,Masculino,Parda,Ensino Médio,Casado(a),1,RJ,Rio de Janeiro,7.9,2019-10-01,2025-10-01,Involuntário,Dispensa por justa causa,Desligado
+100171,Leonardo Oliveira,2c3ff216ef398afe,1992-08-18,Masculino,Branca,Superior Completo,Casado(a),0,SP,São Paulo,20.0,2021-01-01,,,,Ativo
+100172,Paulo Martins,80f4f9bdc6092be7,1984-07-06,Masculino,Branca,Superior Completo,Viúvo(a),0,SP,Campinas,1.7,2019-11-01,2023-04-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100173,Eduardo Almeida,d2fa592f9ca78d6f,1987-05-31,Masculino,Amarela,Pós-graduação,Casado(a),0,SP,São Paulo,6.1,2013-07-01,2022-05-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100174,Sérgio Oliveira,e626c4eeb7ec33eb,1984-02-06,Masculino,Parda,Superior Completo,Casado(a),0,SP,São Paulo,24.0,2018-12-01,,,,Ativo
+100175,Rafael Martins,e8b5fce76187c0e4,1992-05-21,Masculino,Branca,Superior Incompleto,Solteiro(a),0,SP,São Paulo,10.8,2018-02-01,,,,Ativo
+100176,Alexandre Queiroz,6779a261f03e7cde,1976-01-15,Masculino,Branca,Superior Completo,Casado(a),0,BA,Salvador,82.8,2015-10-01,,,,Ativo
+100177,Mariana Esteves,acb877f590673072,1989-10-06,Feminino,Branca,Superior Completo,Solteiro(a),0,SP,São Paulo,6.3,2018-06-01,,,,Ativo
+100178,Camila Teixeira,033eb8ffc8a47a4c,1976-04-25,Feminino,Branca,Superior Incompleto,Solteiro(a),1,SP,Campinas,9.6,2017-03-01,,,,Ativo
+100179,Felipe Teixeira,b71701b8a6876773,1984-11-20,Masculino,Branca,Superior Completo,Solteiro(a),0,RJ,Rio de Janeiro,74.8,2017-08-01,2021-12-01,Voluntário,Pedido de demissão - remuneração,Desligado
+100180,Natália Gomes,bbd9803c1dfec2d9,1980-11-25,Feminino,Preta,Superior Completo,Solteiro(a),1,MG,Belo Horizonte,16.7,2020-03-01,2022-11-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100181,Sérgio Teixeira,36a2cfb1ec293ad6,1979-07-26,Masculino,Parda,Pós-graduação,Solteiro(a),1,SP,São Paulo,14.9,2018-05-01,,,,Ativo
+100182,Henrique Martins,85097e626c2999ef,1994-11-30,Masculino,Branca,Ensino Médio,Casado(a),1,RJ,Rio de Janeiro,45.8,2013-10-01,2025-03-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100183,Gustavo Ferreira,1a96bf1c46e06461,1991-05-25,Masculino,Não informado,Superior Completo,Solteiro(a),1,SC,Florianópolis,18.4,2019-10-01,2025-02-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100184,Thiago Barbosa,b9680bf6d1c219d4,1991-02-23,Masculino,Branca,Pós-graduação,Solteiro(a),1,RJ,Rio de Janeiro,10.1,2019-01-01,2022-01-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100185,Natália Lima,6bae405526de609f,1992-06-23,Feminino,Parda,Ensino Médio,Divorciado(a),2,SP,São Paulo,9.8,2021-01-01,,,,Ativo
+100186,Thiago Gomes,a2f4a01fe64b933c,1982-01-06,Masculino,Parda,Pós-graduação,Casado(a),1,SP,São Paulo,6.0,2015-07-01,2021-05-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100187,Vinícius Queiroz,556777ea086384ff,1989-12-27,Masculino,Parda,Ensino Médio,Solteiro(a),1,MG,Belo Horizonte,7.0,2019-09-01,2021-09-01,Involuntário,Dispensa sem justa causa - fim de projeto,Desligado
+100188,Bruno Santos,c119a588accea28b,1989-06-29,Masculino,Branca,Superior Incompleto,Solteiro(a),2,SP,São Paulo,70.8,2020-09-01,2021-01-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100189,Mariana Rodrigues,b9db62b36ce8aa45,1986-11-19,Feminino,Não informado,Superior Completo,Solteiro(a),2,RS,Porto Alegre,24.0,2018-03-01,,,,Ativo
+100190,Carlos Barbosa,35e9e5fb19fc9b5c,1978-09-15,Masculino,Parda,Superior Completo,Solteiro(a),1,SP,São Paulo,63.8,2013-12-01,,,,Ativo
+100191,Eduarda Ibrahim,96817c9de766f291,1999-06-03,Feminino,Branca,Superior Completo,Casado(a),0,MG,Belo Horizonte,43.2,2020-06-01,2022-01-01,Voluntário,Pedido de demissão - insatisfação com liderança,Desligado
+100192,Leonardo Rodrigues,5ce74d3b99a9ed9c,1982-03-20,Masculino,Parda,Ensino Médio,Solteiro(a),3,RJ,Rio de Janeiro,160.0,2019-01-01,2025-02-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100193,Natália Martins,212a8fd09e708ca2,1989-06-19,Feminino,Branca,Pós-graduação,Casado(a),0,PE,Recife,13.7,2021-01-01,2022-07-01,Voluntário,Pedido de demissão - falta de perspectiva de carreira,Desligado
+100194,Paulo Santos,12f2cd3685d9384e,1986-02-09,Masculino,Parda,Superior Completo,Solteiro(a),1,SP,São Paulo,14.2,2013-02-01,2024-01-01,Voluntário,Pedido de demissão - proposta externa,Desligado
+100195,Karina Dias,839794efc0e80d51,1974-06-09,Feminino,Branca,Superior Completo,Casado(a),0,RJ,Rio de Janeiro,8.1,2020-08-01,2021-08-01,Involuntário,Dispensa sem justa causa - desempenho,Desligado
+100196,Larissa Henriques,e8faac1db03f212e,1983-11-17,Feminino,Parda,Superior Completo,Solteiro(a),0,PR,Curitiba,14.9,2018-10-01,,,,Ativo
+100197,Yasmin Gomes,331fa63ec28a0e67,1989-09-12,Feminino,Branca,Ensino Médio,Solteiro(a),0,RJ,Rio de Janeiro,31.6,2019-07-01,2024-08-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
+100198,Sérgio Martins,c8ca49657ea9cb9b,1984-02-12,Masculino,Preta,Superior Completo,Solteiro(a),0,SP,São Paulo,12.5,2020-02-01,,,,Ativo
+100199,Vinícius Ferreira,d15b80bedfff3d41,1973-11-04,Masculino,Parda,Pós-graduação,Casado(a),1,RJ,Rio de Janeiro,87.7,2018-12-01,,,,Ativo
+100200,Ana Almeida,a99d3fb97f9e87f7,1971-04-24,Feminino,Parda,Superior Completo,Casado(a),0,PE,Recife,14.1,2018-08-01,2024-03-01,Involuntário,Dispensa sem justa causa - reestruturação,Desligado
