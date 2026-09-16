@@ -1,5 +1,7 @@
 # hr-synthetic-data-br
 
+![CI](https://github.com/IngridASilva/hr-synthetic-data-br/actions/workflows/ci.yml/badge.svg)
+
 Gerador de base sintética longitudinal de RH com contexto trabalhista
 brasileiro. Simula cinco anos de vida de uma empresa de ~1.500 pessoas mês a
 mês: dissídio por sindicato, ciclo de performance, mérito, promoção,
