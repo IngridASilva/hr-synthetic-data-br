@@ -1,0 +1,32 @@
+digraph star {
+  rankdir=LR; bgcolor="white"; splines=spline;
+  graph [nodesep=0.35 ranksep=1.6];
+  node [shape=box style="rounded,filled" fontname="Helvetica" fontsize=11
+        penwidth=0 fontcolor="white" margin="0.24,0.14"];
+  edge [color="#B0B7C3" arrowsize=0.6 penwidth=1.1];
+
+  subgraph cluster_d {
+    label="Dimensões"; fontname="Helvetica"; fontsize=12; fontcolor="#4B5563";
+    color="#E5E7EB"; style=rounded; margin=14;
+    cal  [label="dim_calendario\ndia" fillcolor="#0E7490"];
+    col  [label="dim_colaborador\npessoa" fillcolor="#0E7490"];
+    area [label="dim_area\ngerência" fillcolor="#0E7490"];
+    carg [label="dim_cargo\nfamília × grade" fillcolor="#0E7490"];
+    faix [label="dim_faixa_salarial\ncargo × ano" fillcolor="#0E7490"];
+  }
+
+  subgraph cluster_f {
+    label="Fatos"; fontname="Helvetica"; fontsize=12; fontcolor="#4B5563";
+    color="#E5E7EB"; style=rounded; margin=14;
+    hc   [label="fato_headcount_mensal\nmatrícula × mês · 94 mil" fillcolor="#B45309"];
+    fol  [label="fato_folha_mensal\nmatrícula × mês · 94 mil" fillcolor="#047857"];
+    mov  [label="fato_movimentacao\nevento · 15 mil" fillcolor="#B45309"];
+    des  [label="fato_desligamento_custo\ndesligamento · 1,3 mil" fillcolor="#047857"];
+    aval [label="dim_avaliacao\nmatrícula × ciclo · 7 mil" fillcolor="#B45309"];
+  }
+
+  cal -> hc; cal -> fol; cal -> mov; cal -> des;
+  col -> hc; col -> fol; col -> mov; col -> des;
+  area -> hc; area -> fol; area -> des;
+  carg -> hc; faix -> hc;
+}
