@@ -22,7 +22,7 @@ Os coeficientes estão em escala de log-odds mensal.
 from __future__ import annotations
 
 import math
-from dataclasses import dataclass, asdict, field
+from dataclasses import asdict, dataclass
 
 # --------------------------------------------------------------------------
 # Coeficientes verdadeiros (log-odds do desligamento VOLUNTÁRIO no mês)

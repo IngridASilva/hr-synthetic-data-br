@@ -9,14 +9,12 @@ from __future__ import annotations
 
 import argparse
 import time
-from pathlib import Path
 
 import pandas as pd
 
 from .config import Params
 from .export import construir, escrever
 from .simulation import Simulacao
-
 
 FAIXAS_ESPERADAS = {
     "turnover_total_anual": (0.12, 0.30),

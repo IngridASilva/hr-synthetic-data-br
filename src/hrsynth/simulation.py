@@ -95,10 +95,22 @@ class Simulacao:
 
     def _admitir(self, data: pd.Timestamp, area: cat.Area | None = None,
                  grade: int | None = None) -> dict:
-        # Gênero e raça/cor são sorteados ANTES da área, porque a segregação
-        # ocupacional é justamente o efeito do grupo sobre o destino.
-        genero = sortear_genero(self.rng)
-        raca = sortear_raca(self.rng)
+        # Com equidade ativa, gênero e raça/cor precisam ser sorteados ANTES
+        # da área, porque a segregação ocupacional é justamente o efeito do
+        # grupo sobre o destino.
+        #
+        # Com equidade inativa, o sorteio volta para dentro de
+        # `gerar_colaborador`. Não é preciosismo: mudar a ORDEM de consumo do
+        # gerador aleatório muda toda a série, mesmo consumindo a mesma
+        # quantidade de números. Funcionalidade desligada não pode alterar o
+        # resultado, senão a base deixa de reproduzir e o seed perde a função.
+        equidade_ativa = bool(self.p.bruto.get("equidade", {}).get("ativo"))
+
+        if equidade_ativa:
+            genero = sortear_genero(self.rng)
+            raca = sortear_raca(self.rng)
+        else:
+            genero = raca = None
 
         area = area or self._sortear_area(genero, raca)
         grade = grade if grade is not None else self._sortear_grade(area)
@@ -131,7 +143,9 @@ class Simulacao:
             data_adm = inicio - pd.DateOffset(months=meses_casa)
             col = self._admitir(data_adm)
             # Reconstrói progressão passada de forma simplificada.
-            promocoes = int(self.rng.binomial(meses_casa // 24, 0.55)) if meses_casa >= 24 else 0
+            promocoes = 0
+            if meses_casa >= 24:
+                promocoes = int(self.rng.binomial(meses_casa // 24, 0.55))
             for _ in range(promocoes):
                 if col["grade"] < cat.AREA_POR_ID[col["id_area"]].grade_max:
                     col["grade"] += 1
@@ -276,6 +290,10 @@ class Simulacao:
         choque = self.p.choque_mercado(data.year)
         for col in list(self._ativos()):
             meses_casa = self._meses_entre(col["data_admissao"], data)
+            # Aqui a aproximação contínua é mantida de propósito: a idade
+            # entra no hazard como covariável contínua, e trocar por anos
+            # completos deslocaria toda a série histórica já publicada sem
+            # ganho de precisão relevante.
             idade = self._meses_entre(col["data_nascimento"], data) / 12.0
             he = col["horas_extras_base"] * float(np.clip(self.rng.normal(1, 0.3), 0, 3))
 
@@ -343,6 +361,20 @@ class Simulacao:
     @staticmethod
     def _meses_entre(inicio: pd.Timestamp, fim: pd.Timestamp) -> float:
         return max(0.0, (fim - inicio).days / 30.44)
+
+    @staticmethod
+    def _idade_em(nascimento: pd.Timestamp, data: pd.Timestamp) -> int:
+        """Idade em anos completos, por calendário.
+
+        Derivar idade de `dias / 30.44 / 12` parece equivalente e não é: o
+        divisor implícito vira 365,28 em vez de 365,25, e quem acabou de fazer
+        18 anos aparece com 17. O erro é de horas e passa despercebido até
+        alguém filtrar menores de idade e achar que tem um na base.
+        """
+        return (
+            data.year - nascimento.year
+            - ((data.month, data.day) < (nascimento.month, nascimento.day))
+        )
 
     def indice_mercado(self, data: pd.Timestamp) -> float:
         """Correção acumulada das faixas de mercado desde o início da série.
@@ -415,7 +447,7 @@ class Simulacao:
                     self._meses_entre(col["data_ultima_promocao"], data), 1
                 ),
                 "num_promocoes": col["num_promocoes"],
-                "idade": int(self._meses_entre(col["data_nascimento"], data) // 12),
+                "idade": self._idade_em(col["data_nascimento"], data),
                 "horas_extras": round(
                     col["horas_extras_base"]
                     * float(np.clip(self.rng.normal(1, 0.3), 0, 3)), 1
@@ -423,7 +455,7 @@ class Simulacao:
             })
 
     # -------------------------------------------------------------------- run
-    def executar(self) -> "Simulacao":
+    def executar(self) -> Simulacao:
         self._popular_inicial()
         for data in self.meses:
             if data.month == self.p["performance"]["mes_ciclo"]:

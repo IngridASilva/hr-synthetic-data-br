@@ -116,7 +116,7 @@ rescisao:
 # mensurável. Não representam nenhuma empresa real.
 # ---------------------------------------------------------------------------
 equidade:
-  ativo: true
+  ativo: false
 
   # Multiplicador do peso da área na contratação, por grupo.
   # Valor < 1 significa sub-representação no destino.
@@ -142,5 +142,5 @@ equidade:
     Parda:    0.88
 
 saida:
-  diretorio: "data/equidade"
+  diretorio: "data/synthetic"
   formatos: ["parquet"]   # adicione "csv" se quiser inspecionar no GitHub

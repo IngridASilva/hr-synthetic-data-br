@@ -11,12 +11,10 @@ from __future__ import annotations
 
 import hashlib
 
-
 import numpy as np
 import pandas as pd
 
 from . import catalogs as cat
-
 
 # Probabilidade de modelo de trabalho por família de cargo.
 MODELO_POR_FAMILIA: dict[str, list[float]] = {
@@ -87,7 +85,6 @@ def gerar_colaborador(
     raca_cor: str | None = None,
 ) -> dict:
     genero = genero or sortear_genero(rng)
-    raca_cor = raca_cor or sortear_raca(rng)
     if genero == "Feminino":
         nome = f"{rng.choice(cat.NOMES_F)} {rng.choice(cat.SOBRENOMES)}"
     elif genero == "Masculino":
@@ -117,7 +114,11 @@ def gerar_colaborador(
         "hash_documento": _pseudonimo(rng),
         "data_nascimento": data_nascimento.normalize(),
         "genero": genero,
-        "raca_cor": raca_cor,
+        # O sorteio fica NESTA posição, e não junto com o gênero, porque a
+        # ordem de consumo do gerador aleatório define toda a série. Mover uma
+        # linha daqui muda a base inteira mesmo consumindo a mesma quantidade
+        # de números.
+        "raca_cor": raca_cor or sortear_raca(rng),
         "escolaridade": escol,
         "estado_civil": rng.choice(cat.ESTADO_CIVIL, p=[0.44, 0.44, 0.10, 0.02]),
         "num_dependentes": int(rng.poisson(0.8)),

@@ -16,8 +16,8 @@ class Params:
     bruto: dict[str, Any] = field(repr=False)
 
     @classmethod
-    def from_yaml(cls, caminho: str | Path) -> "Params":
-        with open(caminho, "r", encoding="utf-8") as f:
+    def from_yaml(cls, caminho: str | Path) -> Params:
+        with open(caminho, encoding="utf-8") as f:
             bruto = yaml.safe_load(f)
         p = cls(bruto=bruto)
         p.validar()
